@@ -1,0 +1,255 @@
+{
+  "title": "Pens: Our Tools for Writing",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "10380a5d12521bb3",
+      "text": "There are good pens and bad pens. We should know more about the tools we use. Some are toxic, others water soluble. What do you like?"
+    },
+    {
+      "type": "paragraph",
+      "id": "91c487ad0e95002f",
+      "text": "The Bic writes well and lasts forever."
+    },
+    {
+      "type": "paragraph",
+      "id": "30404921c1fd3271",
+      "text": "Left handed folks need ink that dries faster. The Bic smudges."
+    },
+    {
+      "type": "paragraph",
+      "id": "7972bcf898d9d737",
+      "text": "The soft rubber finger hold is important."
+    },
+    {
+      "type": "paragraph",
+      "id": "a5f3d9989bcb3df5",
+      "text": "Why do we keep pens that don't work? Do we think that is going to change?"
+    },
+    {
+      "type": "paragraph",
+      "id": "dd958aa60349cab9",
+      "text": "Pentel sign pen has been written for authors to sign books. It works great for people who write in public, like on stickies."
+    },
+    {
+      "type": "paragraph",
+      "id": "1053878b697985b5",
+      "text": "But, why do we think writing is going to last?"
+    },
+    {
+      "type": "paragraph",
+      "id": "90698d44a954f180",
+      "text": "Lightscribe writes like a pen but can be edited later."
+    },
+    {
+      "type": "paragraph",
+      "id": "af7a2b89c455584f",
+      "text": "A pen should look nice enough that people hand it back to you but not so nice that you hate losing it."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Pens: Our Tools for Writing",
+        "story": []
+      },
+      "date": 1387383840781
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "10380a5d12521bb3"
+      },
+      "id": "10380a5d12521bb3",
+      "type": "add",
+      "date": 1387383850177
+    },
+    {
+      "type": "edit",
+      "id": "10380a5d12521bb3",
+      "item": {
+        "type": "paragraph",
+        "id": "10380a5d12521bb3",
+        "text": "There are good pens and bad pens. We should know more about the tools we use."
+      },
+      "date": 1387383882114
+    },
+    {
+      "type": "edit",
+      "id": "10380a5d12521bb3",
+      "item": {
+        "type": "paragraph",
+        "id": "10380a5d12521bb3",
+        "text": "There are good pens and bad pens. We should know more about the tools we use. Some are toxic, others water soluble. What do you like?"
+      },
+      "date": 1387383946200
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "91c487ad0e95002f",
+        "text": ""
+      },
+      "id": "91c487ad0e95002f",
+      "type": "add",
+      "after": "10380a5d12521bb3",
+      "date": 1387383946705
+    },
+    {
+      "type": "edit",
+      "id": "91c487ad0e95002f",
+      "item": {
+        "type": "paragraph",
+        "id": "91c487ad0e95002f",
+        "text": "The Bic writes well and lasts forever."
+      },
+      "date": 1387383980263
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "30404921c1fd3271",
+        "text": ""
+      },
+      "id": "30404921c1fd3271",
+      "type": "add",
+      "after": "91c487ad0e95002f",
+      "date": 1387383980768
+    },
+    {
+      "type": "edit",
+      "id": "30404921c1fd3271",
+      "item": {
+        "type": "paragraph",
+        "id": "30404921c1fd3271",
+        "text": "Left handed folks need ink that dries faster. The Bic smudges."
+      },
+      "date": 1387384029004
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7972bcf898d9d737",
+        "text": ""
+      },
+      "id": "7972bcf898d9d737",
+      "type": "add",
+      "after": "30404921c1fd3271",
+      "date": 1387384029509
+    },
+    {
+      "type": "edit",
+      "id": "7972bcf898d9d737",
+      "item": {
+        "type": "paragraph",
+        "id": "7972bcf898d9d737",
+        "text": "The soft rubber finger hold is important."
+      },
+      "date": 1387384058748
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a5f3d9989bcb3df5",
+        "text": ""
+      },
+      "id": "a5f3d9989bcb3df5",
+      "type": "add",
+      "after": "7972bcf898d9d737",
+      "date": 1387384059253
+    },
+    {
+      "type": "edit",
+      "id": "a5f3d9989bcb3df5",
+      "item": {
+        "type": "paragraph",
+        "id": "a5f3d9989bcb3df5",
+        "text": "Why do we keep pens that don't work? Do we think that is going to change?"
+      },
+      "date": 1387384086507
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "dd958aa60349cab9",
+        "text": ""
+      },
+      "id": "dd958aa60349cab9",
+      "type": "add",
+      "after": "a5f3d9989bcb3df5",
+      "date": 1387384087013
+    },
+    {
+      "type": "edit",
+      "id": "dd958aa60349cab9",
+      "item": {
+        "type": "paragraph",
+        "id": "dd958aa60349cab9",
+        "text": "Pentel sign pen has been written for authors to sign books. It works great for people who write in public, like on stickies."
+      },
+      "date": 1387384137760
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1053878b697985b5",
+        "text": ""
+      },
+      "id": "1053878b697985b5",
+      "type": "add",
+      "after": "dd958aa60349cab9",
+      "date": 1387384142795
+    },
+    {
+      "type": "edit",
+      "id": "1053878b697985b5",
+      "item": {
+        "type": "paragraph",
+        "id": "1053878b697985b5",
+        "text": "But, why do we think writing is going to last?"
+      },
+      "date": 1387384172209
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "90698d44a954f180"
+      },
+      "id": "90698d44a954f180",
+      "type": "add",
+      "after": "1053878b697985b5",
+      "date": 1387384181400
+    },
+    {
+      "type": "edit",
+      "id": "90698d44a954f180",
+      "item": {
+        "type": "paragraph",
+        "id": "90698d44a954f180",
+        "text": "Lightscribe writes like a pen but can be edited later."
+      },
+      "date": 1387384221711
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "af7a2b89c455584f"
+      },
+      "id": "af7a2b89c455584f",
+      "type": "add",
+      "after": "90698d44a954f180",
+      "date": 1387384335566
+    },
+    {
+      "type": "edit",
+      "id": "af7a2b89c455584f",
+      "item": {
+        "type": "paragraph",
+        "id": "af7a2b89c455584f",
+        "text": "A pen should look nice enough that people hand it back to you but not so nice that you hate losing it."
+      },
+      "date": 1387384362564
+    }
+  ]
+}

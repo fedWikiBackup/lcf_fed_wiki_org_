@@ -1,0 +1,430 @@
+{
+  "title": "Ward Cunningham",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "dd89550e4b7e08dd",
+      "text": "I'm a frequent participant in lean coffee at [[New Relic]] where I work. I have deep roots in agile."
+    },
+    {
+      "type": "html",
+      "id": "8c0d40f982cea788",
+      "text": "<h3> Future Topics"
+    },
+    {
+      "type": "paragraph",
+      "id": "0284ef80f2a26e10",
+      "text": "These are things I may or may not suggest at future meetups. I'll workup good titles when I do."
+    },
+    {
+      "type": "paragraph",
+      "id": "a21bb21925e7b6ca",
+      "text": "History of a Number. I've written a rails4/angular cheat sheet by quoting every method in every file a number touches from db to screen."
+    },
+    {
+      "type": "paragraph",
+      "id": "5315c5986b307ebe",
+      "text": "Have we seen \"peak agile\"? The signing of the agile manifesto has reached a plateau."
+    },
+    {
+      "type": "paragraph",
+      "id": "50d1cfef67d231d1",
+      "text": "Non-programmers have screwed up the discipline of programming once again. Why do we think we can only do what they suggest?"
+    },
+    {
+      "type": "paragraph",
+      "id": "ddad7b225986d221",
+      "text": "How do you know what you should have done? When do you know it? Thinking about debugging and refactoring. "
+    },
+    {
+      "type": "html",
+      "id": "2eedc6ca1dc07b3e",
+      "text": "<h3> Discussed Topics"
+    },
+    {
+      "type": "paragraph",
+      "id": "52c28233558a099d",
+      "text": "How about a stream of tweets for user documentation? Every function would need a hash tag but that doesn't sound too hard. See [[Tweet Docs]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "31369220f611e8f1",
+      "text": "We accept that our understanding of our work evolves. I asked, how (when) do you know what you should have done? See [[Should Have]]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Ward Cunningham",
+        "story": []
+      },
+      "date": 1387420757743
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "dd89550e4b7e08dd"
+      },
+      "id": "dd89550e4b7e08dd",
+      "type": "add",
+      "date": 1387420759830
+    },
+    {
+      "type": "edit",
+      "id": "dd89550e4b7e08dd",
+      "item": {
+        "type": "paragraph",
+        "id": "dd89550e4b7e08dd",
+        "text": "I'm a frequent participant in lean coffee at [[New Relic]] where I work. I have deep roots in agile."
+      },
+      "date": 1387420969516
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "73756499df94416a",
+        "text": ""
+      },
+      "id": "73756499df94416a",
+      "type": "add",
+      "after": "dd89550e4b7e08dd",
+      "date": 1387420970022
+    },
+    {
+      "type": "remove",
+      "id": "73756499df94416a",
+      "date": 1387420978003
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8c0d40f982cea788"
+      },
+      "id": "8c0d40f982cea788",
+      "type": "add",
+      "after": "dd89550e4b7e08dd",
+      "date": 1387469836571
+    },
+    {
+      "type": "edit",
+      "id": "8c0d40f982cea788",
+      "item": {
+        "type": "paragraph",
+        "id": "8c0d40f982cea788",
+        "text": "<h3> Future Topics"
+      },
+      "date": 1387469863672
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0284ef80f2a26e10",
+        "text": ""
+      },
+      "id": "0284ef80f2a26e10",
+      "type": "add",
+      "after": "8c0d40f982cea788",
+      "date": 1387469864182
+    },
+    {
+      "type": "edit",
+      "id": "0284ef80f2a26e10",
+      "item": {
+        "type": "paragraph",
+        "id": "0284ef80f2a26e10",
+        "text": "These are things I may or may not suggest at future meetups."
+      },
+      "date": 1387469896415
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4a225d87272b75fc",
+        "text": ""
+      },
+      "id": "4a225d87272b75fc",
+      "type": "add",
+      "after": "0284ef80f2a26e10",
+      "date": 1387469896921
+    },
+    {
+      "type": "remove",
+      "id": "4a225d87272b75fc",
+      "date": 1387469906946
+    },
+    {
+      "type": "edit",
+      "id": "0284ef80f2a26e10",
+      "item": {
+        "type": "paragraph",
+        "id": "0284ef80f2a26e10",
+        "text": "These are things I may or may not suggest at future meetups. I'll workup good titles when I do."
+      },
+      "date": 1387469922574
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5315c5986b307ebe",
+        "text": ""
+      },
+      "id": "5315c5986b307ebe",
+      "type": "add",
+      "after": "0284ef80f2a26e10",
+      "date": 1387469923079
+    },
+    {
+      "type": "edit",
+      "id": "5315c5986b307ebe",
+      "item": {
+        "type": "paragraph",
+        "id": "5315c5986b307ebe",
+        "text": "Have we seen \"peak agile\"? The signing of the agile manifesto has reached a plateau."
+      },
+      "date": 1387469990394
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "52c28233558a099d"
+      },
+      "id": "52c28233558a099d",
+      "type": "add",
+      "after": "5315c5986b307ebe",
+      "date": 1387469999882
+    },
+    {
+      "type": "edit",
+      "id": "52c28233558a099d",
+      "item": {
+        "type": "paragraph",
+        "id": "52c28233558a099d",
+        "text": "How about a stream of tweets for user documentation? Every function would need a hash tag but that doesn't sound too hard."
+      },
+      "date": 1387470145414
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "50d1cfef67d231d1",
+        "text": ""
+      },
+      "id": "50d1cfef67d231d1",
+      "type": "add",
+      "after": "52c28233558a099d",
+      "date": 1387470145920
+    },
+    {
+      "type": "edit",
+      "id": "50d1cfef67d231d1",
+      "item": {
+        "type": "paragraph",
+        "id": "50d1cfef67d231d1",
+        "text": "Non-programmers have screwed up the discipline of programming once again. Why do we think we can only do what they suggest?"
+      },
+      "date": 1387470239563
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a21bb21925e7b6ca",
+        "text": ""
+      },
+      "id": "a21bb21925e7b6ca",
+      "type": "add",
+      "after": "0284ef80f2a26e10",
+      "date": 1391003411297
+    },
+    {
+      "type": "edit",
+      "id": "a21bb21925e7b6ca",
+      "item": {
+        "type": "paragraph",
+        "id": "a21bb21925e7b6ca",
+        "text": "History of a Number. I've written a rails4/angular cheat sheet by quoting every method in every file a number touches from db to screen."
+      },
+      "date": 1391003584962
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2cac7e37d5014cab",
+        "text": ""
+      },
+      "id": "2cac7e37d5014cab",
+      "type": "add",
+      "after": "50d1cfef67d231d1",
+      "date": 1399389212919
+    },
+    {
+      "type": "edit",
+      "id": "2cac7e37d5014cab",
+      "item": {
+        "type": "paragraph",
+        "id": "2cac7e37d5014cab",
+        "text": "<h3> Topics Discussed"
+      },
+      "date": 1399389239845
+    },
+    {
+      "type": "move",
+      "order": [
+        "dd89550e4b7e08dd",
+        "8c0d40f982cea788",
+        "0284ef80f2a26e10",
+        "a21bb21925e7b6ca",
+        "5315c5986b307ebe",
+        "50d1cfef67d231d1",
+        "2cac7e37d5014cab",
+        "52c28233558a099d"
+      ],
+      "id": "52c28233558a099d",
+      "date": 1399389244150
+    },
+    {
+      "type": "edit",
+      "id": "52c28233558a099d",
+      "item": {
+        "type": "paragraph",
+        "id": "52c28233558a099d",
+        "text": "How about a stream of tweets for user documentation? Every function would need a hash tag but that doesn't sound too hard. See [[Tweet Docs]]"
+      },
+      "date": 1399389256739
+    },
+    {
+      "type": "edit",
+      "id": "2cac7e37d5014cab",
+      "item": {
+        "type": "paragraph",
+        "id": "2cac7e37d5014cab",
+        "text": "<h3> Topic Notes"
+      },
+      "date": 1399390921126
+    },
+    {
+      "type": "remove",
+      "id": "52c28233558a099d",
+      "date": 1399391505256
+    },
+    {
+      "type": "remove",
+      "id": "2cac7e37d5014cab",
+      "date": 1399391526627
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "52c28233558a099d",
+        "text": "How about a stream of tweets for user documentation? Every function would need a hash tag but that doesn't sound too hard. See [[Tweet Docs]]"
+      },
+      "after": "50d1cfef67d231d1",
+      "id": "52c28233558a099d",
+      "date": 1399478527764
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2eedc6ca1dc07b3e",
+        "text": ""
+      },
+      "id": "2eedc6ca1dc07b3e",
+      "type": "add",
+      "after": "50d1cfef67d231d1",
+      "date": 1399478541431
+    },
+    {
+      "type": "edit",
+      "id": "2eedc6ca1dc07b3e",
+      "item": {
+        "type": "paragraph",
+        "id": "2eedc6ca1dc07b3e",
+        "text": "<h3> Discussed"
+      },
+      "date": 1399478558131
+    },
+    {
+      "type": "edit",
+      "id": "2eedc6ca1dc07b3e",
+      "item": {
+        "type": "paragraph",
+        "id": "2eedc6ca1dc07b3e",
+        "text": "<h3> Discussed Topics"
+      },
+      "date": 1399478564274
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ddad7b225986d221",
+        "text": ""
+      },
+      "id": "ddad7b225986d221",
+      "type": "add",
+      "after": "50d1cfef67d231d1",
+      "date": 1399496944860
+    },
+    {
+      "type": "edit",
+      "id": "ddad7b225986d221",
+      "item": {
+        "type": "paragraph",
+        "id": "ddad7b225986d221",
+        "text": "How do you know what you should have done? When do you know it? Thinking about debugging and refactoring. "
+      },
+      "date": 1399496990968
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "31369220f611e8f1",
+        "text": ""
+      },
+      "id": "31369220f611e8f1",
+      "type": "add",
+      "after": "52c28233558a099d",
+      "date": 1400769312702
+    },
+    {
+      "type": "edit",
+      "id": "31369220f611e8f1",
+      "item": {
+        "type": "paragraph",
+        "id": "31369220f611e8f1",
+        "text": "We accept that our understanding of our work evolves. I asked, how (when) do you know what you [[Should Have Done]]?"
+      },
+      "date": 1400769413974
+    },
+    {
+      "type": "edit",
+      "id": "31369220f611e8f1",
+      "item": {
+        "type": "paragraph",
+        "id": "31369220f611e8f1",
+        "text": "We accept that our understanding of our work evolves. I asked, how (when) do you know what you should have done? See [[Should Have]]"
+      },
+      "date": 1400769457170
+    },
+    {
+      "type": "edit",
+      "id": "8c0d40f982cea788",
+      "item": {
+        "type": "html",
+        "id": "8c0d40f982cea788",
+        "text": "<h3> Future Topics"
+      },
+      "date": 1420950514862
+    },
+    {
+      "type": "edit",
+      "id": "2eedc6ca1dc07b3e",
+      "item": {
+        "type": "html",
+        "id": "2eedc6ca1dc07b3e",
+        "text": "<h3> Discussed Topics"
+      },
+      "date": 1420950516922
+    }
+  ]
+}

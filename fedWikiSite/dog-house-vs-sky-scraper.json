@@ -1,0 +1,160 @@
+{
+  "title": "Dog House vs. Sky Scraper",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "0abecf3c066de220",
+      "text": "Does this Steve McConnell analogy really work for software?"
+    },
+    {
+      "type": "paragraph",
+      "id": "7150bd90a9005be3",
+      "text": "If everyone knows how to write that doesn't mean they are prepared to write a novel."
+    },
+    {
+      "type": "paragraph",
+      "id": "04d014ef61a6ca35",
+      "text": "One is an individual activity, the other a team activity."
+    },
+    {
+      "type": "paragraph",
+      "id": "7f35a7bb905a580b",
+      "text": "As systems become bigger they take on new attributes that require specialized knowledge."
+    },
+    {
+      "type": "paragraph",
+      "id": "ba32a17313e6ebc6",
+      "text": "This is an artificial contrast. There are many shades of gray that this question ignores."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Dog House vs. Sky Scraper",
+        "story": []
+      },
+      "date": 1387385191547
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "0abecf3c066de220"
+      },
+      "id": "0abecf3c066de220",
+      "type": "add",
+      "date": 1387385193967
+    },
+    {
+      "type": "edit",
+      "id": "0abecf3c066de220",
+      "item": {
+        "type": "paragraph",
+        "id": "0abecf3c066de220",
+        "text": "Does this Mconnell analogy work for software. "
+      },
+      "date": 1387385225540
+    },
+    {
+      "type": "edit",
+      "id": "0abecf3c066de220",
+      "item": {
+        "type": "paragraph",
+        "id": "0abecf3c066de220",
+        "text": "Does this Steve McConnell analogy work for software. "
+      },
+      "date": 1387385290626
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7150bd90a9005be3"
+      },
+      "id": "7150bd90a9005be3",
+      "type": "add",
+      "after": "0abecf3c066de220",
+      "date": 1387385292697
+    },
+    {
+      "type": "edit",
+      "id": "7150bd90a9005be3",
+      "item": {
+        "type": "paragraph",
+        "id": "7150bd90a9005be3",
+        "text": "If everyone knows how to write that doesn't mean they are prepared to write a novel."
+      },
+      "date": 1387385322169
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "04d014ef61a6ca35",
+        "text": ""
+      },
+      "id": "04d014ef61a6ca35",
+      "type": "add",
+      "after": "7150bd90a9005be3",
+      "date": 1387385322675
+    },
+    {
+      "type": "edit",
+      "id": "04d014ef61a6ca35",
+      "item": {
+        "type": "paragraph",
+        "id": "04d014ef61a6ca35",
+        "text": "One is an individual activity, the other a team activity."
+      },
+      "date": 1387385346417
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7f35a7bb905a580b"
+      },
+      "id": "7f35a7bb905a580b",
+      "type": "add",
+      "after": "04d014ef61a6ca35",
+      "date": 1387385398335
+    },
+    {
+      "type": "edit",
+      "id": "7f35a7bb905a580b",
+      "item": {
+        "type": "paragraph",
+        "id": "7f35a7bb905a580b",
+        "text": "As systems become bigger they take on new attributes that require specialized knowledge."
+      },
+      "date": 1387385433365
+    },
+    {
+      "type": "edit",
+      "id": "0abecf3c066de220",
+      "item": {
+        "type": "paragraph",
+        "id": "0abecf3c066de220",
+        "text": "Does this Steve McConnell analogy really work for software?"
+      },
+      "date": 1387385452110
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ba32a17313e6ebc6"
+      },
+      "id": "ba32a17313e6ebc6",
+      "type": "add",
+      "after": "7f35a7bb905a580b",
+      "date": 1387385519292
+    },
+    {
+      "type": "edit",
+      "id": "ba32a17313e6ebc6",
+      "item": {
+        "type": "paragraph",
+        "id": "ba32a17313e6ebc6",
+        "text": "This is an artificial contrast. There are many shades of gray that this question ignores."
+      },
+      "date": 1387385547284
+    }
+  ]
+}

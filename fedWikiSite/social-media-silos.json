@@ -1,0 +1,235 @@
+{
+  "title": "Social Media Silos",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "69ab12a76fd02ab1",
+      "text": "Damn you Google+"
+    },
+    {
+      "type": "paragraph",
+      "id": "26a62681fc3d51c1",
+      "text": "Where do you socialize when every provider is fighting every other provider?"
+    },
+    {
+      "type": "paragraph",
+      "id": "d6f03e171e1de36b",
+      "text": "We're in the age of information collection. You are being tracked at work and at home. "
+    },
+    {
+      "type": "paragraph",
+      "id": "ca4261b5d713fa25",
+      "text": "Don't put your life history in your linkedin profile. See [[Using Linkedin Professionally]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "c26d179cf0391a21",
+      "text": "It use to be enough to trade service for an email address. But now, everyone has your email so they have to get more to fuel their business."
+    },
+    {
+      "type": "paragraph",
+      "id": "f60ff28aeb110796",
+      "text": "This is all just another scheme to create lock-in."
+    },
+    {
+      "type": "paragraph",
+      "id": "1d546c44660c8ed8",
+      "text": "We have multiple identities. See Seinfield: Where Worlds Collide."
+    },
+    {
+      "type": "paragraph",
+      "id": "5b14b134b22ef83e",
+      "text": "When will we have legal protection for privacy online? Some countries have this already."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Social Media Silos",
+        "story": []
+      },
+      "date": 1387382953921
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "69ab12a76fd02ab1"
+      },
+      "id": "69ab12a76fd02ab1",
+      "type": "add",
+      "date": 1387382955567
+    },
+    {
+      "type": "edit",
+      "id": "69ab12a76fd02ab1",
+      "item": {
+        "type": "paragraph",
+        "id": "69ab12a76fd02ab1",
+        "text": "Damn you Google+"
+      },
+      "date": 1387382965889
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "26a62681fc3d51c1"
+      },
+      "id": "26a62681fc3d51c1",
+      "type": "add",
+      "after": "69ab12a76fd02ab1",
+      "date": 1387382968618
+    },
+    {
+      "type": "edit",
+      "id": "26a62681fc3d51c1",
+      "item": {
+        "type": "paragraph",
+        "id": "26a62681fc3d51c1",
+        "text": "Where to you socialize when every provider is fighting every other provider."
+      },
+      "date": 1387383015232
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d6f03e171e1de36b"
+      },
+      "id": "d6f03e171e1de36b",
+      "type": "add",
+      "after": "26a62681fc3d51c1",
+      "date": 1387383020788
+    },
+    {
+      "type": "edit",
+      "id": "d6f03e171e1de36b",
+      "item": {
+        "type": "paragraph",
+        "id": "d6f03e171e1de36b",
+        "text": "We're in the age of information collection. You are being tracked at work and at home. "
+      },
+      "date": 1387383068159
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ca4261b5d713fa25"
+      },
+      "id": "ca4261b5d713fa25",
+      "type": "add",
+      "after": "d6f03e171e1de36b",
+      "date": 1387383073776
+    },
+    {
+      "type": "edit",
+      "id": "ca4261b5d713fa25",
+      "item": {
+        "type": "paragraph",
+        "id": "ca4261b5d713fa25",
+        "text": "Don't put your life history in your linked in profile. See [[Using Linkedin Professionally]]"
+      },
+      "date": 1387383103738
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "c26d179cf0391a21"
+      },
+      "id": "c26d179cf0391a21",
+      "type": "add",
+      "after": "ca4261b5d713fa25",
+      "date": 1387383107126
+    },
+    {
+      "type": "edit",
+      "id": "c26d179cf0391a21",
+      "item": {
+        "type": "paragraph",
+        "id": "c26d179cf0391a21",
+        "text": "It use to be enough to trade service for an email address. But now, everyone has your email so they have to get more to fuel their business."
+      },
+      "date": 1387383154715
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f60ff28aeb110796",
+        "text": ""
+      },
+      "id": "f60ff28aeb110796",
+      "type": "add",
+      "after": "c26d179cf0391a21",
+      "date": 1387383155221
+    },
+    {
+      "type": "edit",
+      "id": "f60ff28aeb110796",
+      "item": {
+        "type": "paragraph",
+        "id": "f60ff28aeb110796",
+        "text": "This is all just another scheme to create lock-in."
+      },
+      "date": 1387383173257
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "1d546c44660c8ed8"
+      },
+      "id": "1d546c44660c8ed8",
+      "type": "add",
+      "after": "f60ff28aeb110796",
+      "date": 1387383306598
+    },
+    {
+      "type": "edit",
+      "id": "1d546c44660c8ed8",
+      "item": {
+        "type": "paragraph",
+        "id": "1d546c44660c8ed8",
+        "text": "We have multiple identities. See Seinfield: Where Worlds Collide."
+      },
+      "date": 1387383333795
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5b14b134b22ef83e"
+      },
+      "id": "5b14b134b22ef83e",
+      "type": "add",
+      "after": "1d546c44660c8ed8",
+      "date": 1387383369362
+    },
+    {
+      "type": "edit",
+      "id": "5b14b134b22ef83e",
+      "item": {
+        "type": "paragraph",
+        "id": "5b14b134b22ef83e",
+        "text": "When will we have legal protection for privacy online? Some countries have this already."
+      },
+      "date": 1387383407669
+    },
+    {
+      "type": "edit",
+      "id": "26a62681fc3d51c1",
+      "item": {
+        "type": "paragraph",
+        "id": "26a62681fc3d51c1",
+        "text": "Where do you socialize when every provider is fighting every other provider?"
+      },
+      "date": 1387421814262
+    },
+    {
+      "type": "edit",
+      "id": "ca4261b5d713fa25",
+      "item": {
+        "type": "paragraph",
+        "id": "ca4261b5d713fa25",
+        "text": "Don't put your life history in your linkedin profile. See [[Using Linkedin Professionally]]"
+      },
+      "date": 1387421826643
+    }
+  ]
+}

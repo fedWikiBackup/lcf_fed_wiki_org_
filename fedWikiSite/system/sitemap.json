@@ -1,0 +1,98 @@
+[
+  {
+    "slug": "december-2013",
+    "title": "December 2013",
+    "date": 1420950428000,
+    "synopsis": "Topics from [[Portland, Oregon]], hosted by NewRelic."
+  },
+  {
+    "slug": "dog-house-vs-sky-scraper",
+    "title": "Dog House vs. Sky Scraper",
+    "date": 1387385547000,
+    "synopsis": "Does this Steve McConnell analogy really work for software?"
+  },
+  {
+    "slug": "efficiency-of-big-cities",
+    "title": "Efficiency of Big Cities",
+    "date": 1387385137000,
+    "synopsis": "Like in animals, size create efficiency. What causes this and how do we make sure we get the benefits."
+  },
+  {
+    "slug": "emergent-organizations",
+    "title": "Emergent Organizations",
+    "date": 1387382936000,
+    "synopsis": "What happens when organizations lets their structure emerge? Valve is an example. What happens when hidden structures emerge?"
+  },
+  {
+    "slug": "federated-wiki",
+    "title": "Federated Wiki",
+    "date": 1420950435000,
+    "synopsis": "The federated wiki is a personal space where sharing happens by consent of the individual participants. Many conventions and affordances tend to make it feel like a traditional wiki but only when authors consent."
+  },
+  {
+    "slug": "lean-coffee",
+    "title": "Lean Coffee",
+    "date": 1387467850000,
+    "synopsis": "Lean Coffee is a structured, but agenda-less meeting. Participants gather, build an agenda, and begin talking. Conversations are directed and productive because the agenda for the meeting was democratically generated. There are currently dozens of Lean Coffees happening world-wide, including Seattle, San Francisco, Stockholm, Toronto, Boulder, New York City, and more. [http://leancoffee.org/ website]"
+  },
+  {
+    "slug": "lean-coffee-federation",
+    "title": "Lean Coffee Federation",
+    "date": 1420950457000,
+    "synopsis": "We promote ongoing personal reflection on topics discussed at [[Lean Coffee]] meetups."
+  },
+  {
+    "slug": "pens-our-tools-for-writing",
+    "title": "Pens: Our Tools for Writing",
+    "date": 1387384362000,
+    "synopsis": "There are good pens and bad pens. We should know more about the tools we use. Some are toxic, others water soluble. What do you like?"
+  },
+  {
+    "slug": "portland-oregon",
+    "title": "Portland, Oregon",
+    "date": 1399478825000,
+    "synopsis": "These are the Lean Coffee authors in Portland. If you would like to join them ask Ward for help. [http://portland.leancoffee.org/ blog]"
+  },
+  {
+    "slug": "should-have",
+    "title": "Should Have",
+    "date": 1420950445000,
+    "synopsis": "We accept that our understanding of our work evolves. I asked, how (when) do you know what you should have done? Of course I was thinking about refactoring of code that was once right but not now."
+  },
+  {
+    "slug": "smallest-federated-wiki",
+    "title": "Smallest Federated Wiki",
+    "date": 1387468603000,
+    "synopsis": "Our new wiki innovates three ways. It shares through federation, composes by refactoring and wraps data with visualization. Follow our open development on GitHub or just watch our work in progress videos here."
+  },
+  {
+    "slug": "social-media-silos",
+    "title": "Social Media Silos",
+    "date": 1387421826000,
+    "synopsis": "Damn you Google+"
+  },
+  {
+    "slug": "tweet-docs",
+    "title": "Tweet Docs",
+    "date": 1420950497000,
+    "synopsis": "Every conference promotes a #hashtag for ongoing conversation. Shouldn't your application do the same? Perhaps every page, or every screen, or every function, could have its own."
+  },
+  {
+    "slug": "using-linkedin-professionally",
+    "title": "Using Linkedin Professionally",
+    "date": 1387382562000,
+    "synopsis": "How to use linkedin as a resume replacement. Doesn't it have the the right things."
+  },
+  {
+    "slug": "ward-cunningham",
+    "title": "Ward Cunningham",
+    "date": 1420950513000,
+    "synopsis": "I'm a frequent participant in lean coffee at [[New Relic]] where I work. I have deep roots in agile."
+  },
+  {
+    "slug": "welcome-visitors",
+    "title": "Welcome Visitors",
+    "date": 1387421055000,
+    "synopsis": "Welcome to the [[Smallest Federated Wiki]]. From this page you can find who we are and what we do. New sites provide this information and then claim the site as their own. You will need your own site to participate."
+  }
+]

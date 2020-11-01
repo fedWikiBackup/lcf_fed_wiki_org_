@@ -1,0 +1,235 @@
+{
+  "title": "Portland, Oregon",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b3863b5cc6afed07",
+      "text": "These are the Lean Coffee authors in Portland. If you would like to join them ask Ward for help. [http://portland.leancoffee.org/ blog]"
+    },
+    {
+      "type": "paragraph",
+      "id": "3e89e5a6cfe854ca",
+      "text": "See [[Recent Changes]]"
+    },
+    {
+      "type": "reference",
+      "id": "e4f4081cbcae1206",
+      "site": "sterling.lcf.fed.wiki.org",
+      "slug": "sterling-hooten",
+      "title": "Sterling Hooten",
+      "text": "I've contributed to Lean Coffee for many months."
+    },
+    {
+      "type": "reference",
+      "id": "cdef843a88079a11",
+      "site": "lcf.fed.wiki.org",
+      "slug": "ward-cunningham",
+      "title": "Ward Cunningham",
+      "text": "I'm a frequent participant in lean coffee at [[New Relic]] where I work. I have deep roots in agile."
+    },
+    {
+      "type": "reference",
+      "id": "96e67f9ec6288dcc",
+      "site": "dan.lcf.fed.wiki.org",
+      "slug": "dan-delany",
+      "title": "Dan Delany",
+      "text": "I am a long time Java developer and frequent participant in [[Lean Coffee]]."
+    },
+    {
+      "type": "reference",
+      "id": "59f24df23fc8ae02",
+      "site": "andrew.lcf.fed.wiki.org",
+      "slug": "andrew-mccollough",
+      "title": "Andrew McCollough",
+      "text": "I've been attending Lean Coffee since January 2014 and drinking in every event. "
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Portland, Oregon",
+        "story": []
+      },
+      "date": 1387386432178
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b3863b5cc6afed07"
+      },
+      "id": "b3863b5cc6afed07",
+      "type": "add",
+      "date": 1387386433777
+    },
+    {
+      "type": "edit",
+      "id": "b3863b5cc6afed07",
+      "item": {
+        "type": "paragraph",
+        "id": "b3863b5cc6afed07",
+        "text": "Lean Coffee authors in Portland."
+      },
+      "date": 1387386447611
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3513ff0674659a50",
+        "text": ""
+      },
+      "id": "3513ff0674659a50",
+      "type": "add",
+      "after": "b3863b5cc6afed07",
+      "date": 1387386448118
+    },
+    {
+      "type": "remove",
+      "id": "3513ff0674659a50",
+      "date": 1387386449521
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "e4f4081cbcae1206"
+      },
+      "id": "e4f4081cbcae1206",
+      "type": "add",
+      "after": "b3863b5cc6afed07",
+      "date": 1387386451329
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cdef843a88079a11"
+      },
+      "id": "cdef843a88079a11",
+      "type": "add",
+      "after": "e4f4081cbcae1206",
+      "date": 1387386452951
+    },
+    {
+      "type": "edit",
+      "id": "e4f4081cbcae1206",
+      "item": {
+        "type": "reference",
+        "id": "e4f4081cbcae1206",
+        "site": "sterling.lcf.fed.wiki.org",
+        "slug": "sterling-hooten",
+        "title": "Sterling Hooten",
+        "text": "I've contributed to Lean Coffee for many months."
+      },
+      "date": 1387386489822
+    },
+    {
+      "type": "edit",
+      "id": "cdef843a88079a11",
+      "item": {
+        "type": "reference",
+        "id": "cdef843a88079a11",
+        "site": "lcf.fed.wiki.org",
+        "slug": "ward-cunningham",
+        "title": "Ward Cunningham",
+        "text": "I'm a frequent participant in lean coffee at [[New Relic]] where I work. I have deep roots in agile."
+      },
+      "date": 1387421012404
+    },
+    {
+      "type": "edit",
+      "id": "b3863b5cc6afed07",
+      "item": {
+        "type": "paragraph",
+        "id": "b3863b5cc6afed07",
+        "text": "These are the Lean Coffee authors in Portland. If you would like to join them ask Ward for help."
+      },
+      "date": 1387469585905
+    },
+    {
+      "type": "fork",
+      "site": "lcf.fed.wiki.org",
+      "date": 1387577821583
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "96e67f9ec6288dcc"
+      },
+      "id": "96e67f9ec6288dcc",
+      "type": "add",
+      "after": "cdef843a88079a11",
+      "date": 1387577879457
+    },
+    {
+      "type": "edit",
+      "id": "96e67f9ec6288dcc",
+      "item": {
+        "type": "reference",
+        "id": "96e67f9ec6288dcc",
+        "site": "dan.lcf.fed.wiki.org",
+        "slug": "dan-delany",
+        "title": "Dan Delany",
+        "text": "I am a long time Java developer and frequent participant in [[Lean Coffee]]."
+      },
+      "date": 1387577885806
+    },
+    {
+      "type": "fork",
+      "site": "dan.lcf.fed.wiki.org",
+      "date": 1387593739415
+    },
+    {
+      "type": "edit",
+      "id": "b3863b5cc6afed07",
+      "item": {
+        "type": "paragraph",
+        "id": "b3863b5cc6afed07",
+        "text": "These are the Lean Coffee authors in Portland. If you would like to join them ask Ward for help. See [[Recent Changes]]"
+      },
+      "date": 1390419039515
+    },
+    {
+      "type": "edit",
+      "id": "b3863b5cc6afed07",
+      "item": {
+        "type": "paragraph",
+        "id": "b3863b5cc6afed07",
+        "text": "These are the Lean Coffee authors in Portland. If you would like to join them ask Ward for help. [http://portland.leancoffee.org/ blog]"
+      },
+      "date": 1399466526467
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "3e89e5a6cfe854ca",
+        "text": "See [[Recent Changes]]"
+      },
+      "id": "3e89e5a6cfe854ca",
+      "type": "add",
+      "after": "b3863b5cc6afed07",
+      "date": 1399466526982
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "59f24df23fc8ae02"
+      },
+      "id": "59f24df23fc8ae02",
+      "type": "add",
+      "after": "96e67f9ec6288dcc",
+      "date": 1399478815032
+    },
+    {
+      "type": "edit",
+      "id": "59f24df23fc8ae02",
+      "item": {
+        "type": "reference",
+        "id": "59f24df23fc8ae02",
+        "site": "andrew.lcf.fed.wiki.org",
+        "slug": "andrew-mccollough",
+        "title": "Andrew McCollough",
+        "text": "I've been attending Lean Coffee since January 2014 and drinking in every event. "
+      },
+      "date": 1399478825907
+    }
+  ]
+}

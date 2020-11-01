@@ -1,0 +1,141 @@
+{
+  "title": "Using Linkedin Professionally",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "faf7b2a6d088a01b",
+      "text": "How to use linkedin as a resume replacement. Doesn't it have the the right things."
+    },
+    {
+      "type": "paragraph",
+      "id": "ed79632b238d06fc",
+      "text": "Linkedin creates too much spam for people who have evidence of a skill in demand."
+    },
+    {
+      "type": "paragraph",
+      "id": "4278c33026fc8d36",
+      "text": "Professionals should always be looking for their next job. Grooming linkedin is the way to prepare for the next job search."
+    },
+    {
+      "type": "paragraph",
+      "id": "94b2cc86156debb3",
+      "text": "Its handy to keep track of peers when there has been a big layoff."
+    },
+    {
+      "type": "paragraph",
+      "id": "4a134e61bdaca4ee",
+      "text": "HR has way too much power already. Why give them more power?"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Using Linkedin Professionally",
+        "story": []
+      },
+      "date": 1387382292863
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "faf7b2a6d088a01b"
+      },
+      "id": "faf7b2a6d088a01b",
+      "type": "add",
+      "date": 1387382294635
+    },
+    {
+      "type": "edit",
+      "id": "faf7b2a6d088a01b",
+      "item": {
+        "type": "paragraph",
+        "id": "faf7b2a6d088a01b",
+        "text": "How to use linkedin as a resume replacement. Doesn't it have the the right things."
+      },
+      "date": 1387382352148
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ed79632b238d06fc",
+        "text": ""
+      },
+      "id": "ed79632b238d06fc",
+      "type": "add",
+      "after": "faf7b2a6d088a01b",
+      "date": 1387382352654
+    },
+    {
+      "type": "edit",
+      "id": "ed79632b238d06fc",
+      "item": {
+        "type": "paragraph",
+        "id": "ed79632b238d06fc",
+        "text": "Linkedin creates too much spam for people who have evidence of a skill in demand."
+      },
+      "date": 1387382397966
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4278c33026fc8d36",
+        "text": ""
+      },
+      "id": "4278c33026fc8d36",
+      "type": "add",
+      "after": "ed79632b238d06fc",
+      "date": 1387382398470
+    },
+    {
+      "type": "edit",
+      "id": "4278c33026fc8d36",
+      "item": {
+        "type": "paragraph",
+        "id": "4278c33026fc8d36",
+        "text": "Professionals should always be looking for their next job. Grooming linkedin is the way to prepare for the next job search."
+      },
+      "date": 1387382442887
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "94b2cc86156debb3"
+      },
+      "id": "94b2cc86156debb3",
+      "type": "add",
+      "after": "4278c33026fc8d36",
+      "date": 1387382452303
+    },
+    {
+      "type": "edit",
+      "id": "94b2cc86156debb3",
+      "item": {
+        "type": "paragraph",
+        "id": "94b2cc86156debb3",
+        "text": "Its handy to keep track of peers when there has been a big layoff."
+      },
+      "date": 1387382479988
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4a134e61bdaca4ee"
+      },
+      "id": "4a134e61bdaca4ee",
+      "type": "add",
+      "after": "94b2cc86156debb3",
+      "date": 1387382483316
+    },
+    {
+      "type": "edit",
+      "id": "4a134e61bdaca4ee",
+      "item": {
+        "type": "paragraph",
+        "id": "4a134e61bdaca4ee",
+        "text": "HR has way too much power already. Why give them more power?"
+      },
+      "date": 1387382562654
+    }
+  ]
+}

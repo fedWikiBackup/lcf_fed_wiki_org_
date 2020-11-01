@@ -1,0 +1,177 @@
+{
+  "title": "Efficiency of Big Cities",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "b31c443facda478a",
+      "text": "Like in animals, size create efficiency. What causes this and how do we make sure we get the benefits."
+    },
+    {
+      "type": "paragraph",
+      "id": "0b418147b77d693a",
+      "text": "Our culture has migrated to cities in the '40s. This will continue."
+    },
+    {
+      "type": "paragraph",
+      "id": "7cf8880a4593f198",
+      "text": "Green spaces."
+    },
+    {
+      "type": "paragraph",
+      "id": "a6cb6bf1b515ad1a",
+      "text": "Urban growth boundaries."
+    },
+    {
+      "type": "paragraph",
+      "id": "56d9065256ac6ab7",
+      "text": "Timeless way."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Efficiency of Big Cities",
+        "story": []
+      },
+      "date": 1387384722124
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b31c443facda478a"
+      },
+      "id": "b31c443facda478a",
+      "type": "add",
+      "date": 1387384739491
+    },
+    {
+      "type": "edit",
+      "id": "b31c443facda478a",
+      "item": {
+        "type": "paragraph",
+        "id": "b31c443facda478a",
+        "text": "Like in animals, size create efficiency."
+      },
+      "date": 1387384770867
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0b418147b77d693a",
+        "text": ""
+      },
+      "id": "0b418147b77d693a",
+      "type": "add",
+      "after": "b31c443facda478a",
+      "date": 1387384771376
+    },
+    {
+      "type": "edit",
+      "id": "0b418147b77d693a",
+      "item": {
+        "type": "paragraph",
+        "id": "0b418147b77d693a",
+        "text": "Our culture has migrated to cities. "
+      },
+      "date": 1387384808514
+    },
+    {
+      "type": "edit",
+      "id": "b31c443facda478a",
+      "item": {
+        "type": "paragraph",
+        "id": "b31c443facda478a",
+        "text": "Like in animals, size create efficiency. What causes this and how do we make sure we get the benefits."
+      },
+      "date": 1387384859961
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7cf8880a4593f198"
+      },
+      "id": "7cf8880a4593f198",
+      "type": "add",
+      "after": "0b418147b77d693a",
+      "date": 1387384862424
+    },
+    {
+      "type": "edit",
+      "id": "7cf8880a4593f198",
+      "item": {
+        "type": "paragraph",
+        "id": "7cf8880a4593f198",
+        "text": "Green spaces."
+      },
+      "date": 1387384870301
+    },
+    {
+      "type": "edit",
+      "id": "0b418147b77d693a",
+      "item": {
+        "type": "paragraph",
+        "id": "0b418147b77d693a",
+        "text": "Our culture has migrated to cities in the '40s. This will continue."
+      },
+      "date": 1387384893885
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "99ebf23ab7dd7a9e",
+        "text": ""
+      },
+      "id": "99ebf23ab7dd7a9e",
+      "type": "add",
+      "after": "7cf8880a4593f198",
+      "date": 1387384897782
+    },
+    {
+      "type": "remove",
+      "id": "99ebf23ab7dd7a9e",
+      "date": 1387384905332
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "a6cb6bf1b515ad1a",
+        "text": ""
+      },
+      "id": "a6cb6bf1b515ad1a",
+      "type": "add",
+      "after": "7cf8880a4593f198",
+      "date": 1387384981776
+    },
+    {
+      "type": "edit",
+      "id": "a6cb6bf1b515ad1a",
+      "item": {
+        "type": "paragraph",
+        "id": "a6cb6bf1b515ad1a",
+        "text": "Urban growth boundaries."
+      },
+      "date": 1387384989651
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "56d9065256ac6ab7"
+      },
+      "id": "56d9065256ac6ab7",
+      "type": "add",
+      "after": "a6cb6bf1b515ad1a",
+      "date": 1387385130546
+    },
+    {
+      "type": "edit",
+      "id": "56d9065256ac6ab7",
+      "item": {
+        "type": "paragraph",
+        "id": "56d9065256ac6ab7",
+        "text": "Timeless way."
+      },
+      "date": 1387385137943
+    }
+  ]
+}

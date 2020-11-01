@@ -1,0 +1,49 @@
+{
+  "title": "Lean Coffee",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "8dd09433b0048ae3",
+      "text": "Lean Coffee is a structured, but agenda-less meeting. Participants gather, build an agenda, and begin talking. Conversations are directed and productive because the agenda for the meeting was democratically generated. There are currently dozens of Lean Coffees happening world-wide, including Seattle, San Francisco, Stockholm, Toronto, Boulder, New York City, and more. [http://leancoffee.org/ website]"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Lean Coffee",
+        "story": []
+      },
+      "date": 1387467820604
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8dd09433b0048ae3"
+      },
+      "id": "8dd09433b0048ae3",
+      "type": "add",
+      "date": 1387467822730
+    },
+    {
+      "type": "edit",
+      "id": "8dd09433b0048ae3",
+      "item": {
+        "type": "paragraph",
+        "id": "8dd09433b0048ae3",
+        "text": "Lean Coffee is a structured, but agenda-less meeting. Participants gather, build an agenda, and begin talking. Conversations are directed and productive because the agenda for the meeting was democratically generated. There are currently dozens of Lean Coffees happening world-wide, including Seattle, San Francisco, Stockholm, Toronto, Boulder, New York City, and more."
+      },
+      "date": 1387467826779
+    },
+    {
+      "type": "edit",
+      "id": "8dd09433b0048ae3",
+      "item": {
+        "type": "paragraph",
+        "id": "8dd09433b0048ae3",
+        "text": "Lean Coffee is a structured, but agenda-less meeting. Participants gather, build an agenda, and begin talking. Conversations are directed and productive because the agenda for the meeting was democratically generated. There are currently dozens of Lean Coffees happening world-wide, including Seattle, San Francisco, Stockholm, Toronto, Boulder, New York City, and more. [http://leancoffee.org/ website]"
+      },
+      "date": 1387467850610
+    }
+  ]
+}

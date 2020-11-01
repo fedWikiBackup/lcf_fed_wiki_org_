@@ -1,0 +1,90 @@
+{
+  "title": "Emergent Organizations",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2782ff0c1aa335a2",
+      "text": "What happens when organizations lets their structure emerge? Valve is an example. What happens when hidden structures emerge?"
+    },
+    {
+      "type": "paragraph",
+      "id": "764fef4873db6a71",
+      "text": "Self managing teams (from the 90s) found that they got way more tasks that management use to do. "
+    },
+    {
+      "type": "paragraph",
+      "id": "7ea6a3acee343053",
+      "text": "You are empowered to transcend the organization but don't forget who writes your review."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Emergent Organizations",
+        "story": []
+      },
+      "date": 1387382623028
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2782ff0c1aa335a2"
+      },
+      "id": "2782ff0c1aa335a2",
+      "type": "add",
+      "date": 1387382625848
+    },
+    {
+      "type": "edit",
+      "id": "2782ff0c1aa335a2",
+      "item": {
+        "type": "paragraph",
+        "id": "2782ff0c1aa335a2",
+        "text": "What happens when organizations lets their structure emerge? Valve is an example. What happens when hidden structures emerge?"
+      },
+      "date": 1387382679008
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "764fef4873db6a71",
+        "text": ""
+      },
+      "id": "764fef4873db6a71",
+      "type": "add",
+      "after": "2782ff0c1aa335a2",
+      "date": 1387382679513
+    },
+    {
+      "type": "edit",
+      "id": "764fef4873db6a71",
+      "item": {
+        "type": "paragraph",
+        "id": "764fef4873db6a71",
+        "text": "Self managing teams (from the 90s) found that they got way more tasks that management use to do. "
+      },
+      "date": 1387382800260
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "7ea6a3acee343053"
+      },
+      "id": "7ea6a3acee343053",
+      "type": "add",
+      "after": "764fef4873db6a71",
+      "date": 1387382889685
+    },
+    {
+      "type": "edit",
+      "id": "7ea6a3acee343053",
+      "item": {
+        "type": "paragraph",
+        "id": "7ea6a3acee343053",
+        "text": "You are empowered to transcend the organization but don't forget who writes your review."
+      },
+      "date": 1387382935752
+    }
+  ]
+}

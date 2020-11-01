@@ -1,0 +1,311 @@
+{
+  "title": "Federated Wiki",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "d4b3d6c3f1dc17e2",
+      "text": "The federated wiki is a personal space where sharing happens by consent of the individual participants. Many conventions and affordances tend to make it feel like a traditional wiki but only when authors consent."
+    },
+    {
+      "type": "html",
+      "id": "b6377b6e061cd062",
+      "text": "<h3> Can Others Read?"
+    },
+    {
+      "type": "paragraph",
+      "id": "ced94c8e8d8e1237",
+      "text": "Yes, but only if your wiki is on the public internet. Should you host a federated wiki on a personal computer or behind a firewall then you can pull content from the federation but the federation cannot pull it back."
+    },
+    {
+      "type": "paragraph",
+      "id": "bba0db001e6e092d",
+      "text": "Your wiki is the one where you start reading and where content you pull joins the content you're already written. If you start reading from another's wiki, content you write or pull will be stored privately in your browser's local storage. "
+    },
+    {
+      "type": "html",
+      "id": "5a1277caf94b276f",
+      "text": "<h3> Can Others Write?"
+    },
+    {
+      "type": "paragraph",
+      "id": "48bf138eddc98cf3",
+      "text": "Yes, but only on their own wiki. You will be alerted as to what others in your neighborhood have written. As you grow your neighborhood, you will have more of their writing available."
+    },
+    {
+      "type": "paragraph",
+      "id": "981d189f1d2891f0",
+      "text": "Visit [[Portland Oregon]] to expand your neighborhood."
+    },
+    {
+      "type": "paragraph",
+      "id": "1f0814ad297516a5",
+      "text": "See [[Recent Changes]] to read what has been written."
+    },
+    {
+      "type": "paragraph",
+      "id": "c70cbca1ba00e72d",
+      "text": "Read [[How to Wiki]] to understand it all."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Federated Wiki",
+        "story": []
+      },
+      "date": 1387468661812
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d4b3d6c3f1dc17e2"
+      },
+      "id": "d4b3d6c3f1dc17e2",
+      "type": "add",
+      "date": 1387468669423
+    },
+    {
+      "type": "edit",
+      "id": "d4b3d6c3f1dc17e2",
+      "item": {
+        "type": "paragraph",
+        "id": "d4b3d6c3f1dc17e2",
+        "text": "The federated wiki is a personal space where sharing happens by consent of the individual participants. Many conventions and affordances tend to make it feel like a traditional wiki but only when authors choose to follow and use them."
+      },
+      "date": 1387468915255
+    },
+    {
+      "type": "edit",
+      "id": "d4b3d6c3f1dc17e2",
+      "item": {
+        "type": "paragraph",
+        "id": "d4b3d6c3f1dc17e2",
+        "text": "The federated wiki is a personal space where sharing happens by consent of the individual participants. Many conventions and affordances tend to make it feel like a traditional wiki but only when authors consent."
+      },
+      "date": 1387468931166
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "b6377b6e061cd062"
+      },
+      "id": "b6377b6e061cd062",
+      "type": "add",
+      "after": "d4b3d6c3f1dc17e2",
+      "date": 1387468934304
+    },
+    {
+      "type": "edit",
+      "id": "b6377b6e061cd062",
+      "item": {
+        "type": "paragraph",
+        "id": "b6377b6e061cd062",
+        "text": "<h3> Can Others Read"
+      },
+      "date": 1387468955670
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ced94c8e8d8e1237",
+        "text": ""
+      },
+      "id": "ced94c8e8d8e1237",
+      "type": "add",
+      "after": "b6377b6e061cd062",
+      "date": 1387468956175
+    },
+    {
+      "type": "edit",
+      "id": "ced94c8e8d8e1237",
+      "item": {
+        "type": "paragraph",
+        "id": "ced94c8e8d8e1237",
+        "text": "Yes, but only if your wiki is on the public internet. Should you host a federated wiki on a personal computer or behind a firewall then you can pull content from the federation but the federation cannot pull it back."
+      },
+      "date": 1387469051341
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bba0db001e6e092d",
+        "text": ""
+      },
+      "id": "bba0db001e6e092d",
+      "type": "add",
+      "after": "ced94c8e8d8e1237",
+      "date": 1387469051850
+    },
+    {
+      "type": "edit",
+      "id": "bba0db001e6e092d",
+      "item": {
+        "type": "paragraph",
+        "id": "bba0db001e6e092d",
+        "text": "Your wiki is the one where you start reading and where content you pull joins the content you're already written. If you start reading from another's wiki, content you write or pull will be stored privately in your browser's local storage. "
+      },
+      "date": 1387469139306
+    },
+    {
+      "type": "edit",
+      "id": "b6377b6e061cd062",
+      "item": {
+        "type": "paragraph",
+        "id": "b6377b6e061cd062",
+        "text": "<h3> Can Others Read?"
+      },
+      "date": 1387469145304
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "5a1277caf94b276f"
+      },
+      "id": "5a1277caf94b276f",
+      "type": "add",
+      "after": "bba0db001e6e092d",
+      "date": 1387469154104
+    },
+    {
+      "type": "edit",
+      "id": "5a1277caf94b276f",
+      "item": {
+        "type": "paragraph",
+        "id": "5a1277caf94b276f",
+        "text": "<h3> Can Others Write?"
+      },
+      "date": 1387469170933
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "48bf138eddc98cf3",
+        "text": ""
+      },
+      "id": "48bf138eddc98cf3",
+      "type": "add",
+      "after": "5a1277caf94b276f",
+      "date": 1387469171439
+    },
+    {
+      "type": "edit",
+      "id": "48bf138eddc98cf3",
+      "item": {
+        "type": "paragraph",
+        "id": "48bf138eddc98cf3",
+        "text": "Yes, but only on their own wiki. You will be alerted as to what others in your neighborhood have written. As you grow your neighborhood, you will have more of their writing available."
+      },
+      "date": 1387469276611
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c70cbca1ba00e72d",
+        "text": ""
+      },
+      "id": "c70cbca1ba00e72d",
+      "type": "add",
+      "after": "48bf138eddc98cf3",
+      "date": 1387469277116
+    },
+    {
+      "type": "edit",
+      "id": "c70cbca1ba00e72d",
+      "item": {
+        "type": "paragraph",
+        "id": "c70cbca1ba00e72d",
+        "text": "Read [[How to Wiki]] to understand all of these mechanisms."
+      },
+      "date": 1387469317689
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "981d189f1d2891f0",
+        "text": ""
+      },
+      "id": "981d189f1d2891f0",
+      "type": "add",
+      "after": "c70cbca1ba00e72d",
+      "date": 1387469318195
+    },
+    {
+      "type": "edit",
+      "id": "981d189f1d2891f0",
+      "item": {
+        "type": "paragraph",
+        "id": "981d189f1d2891f0",
+        "text": "Visit [[Portland Oregon]] to expand your neighborhood."
+      },
+      "date": 1387469341824
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1f0814ad297516a5",
+        "text": ""
+      },
+      "id": "1f0814ad297516a5",
+      "type": "add",
+      "after": "981d189f1d2891f0",
+      "date": 1387469342330
+    },
+    {
+      "type": "edit",
+      "id": "1f0814ad297516a5",
+      "item": {
+        "type": "paragraph",
+        "id": "1f0814ad297516a5",
+        "text": "See [[Recent Changes]] to read what has been written."
+      },
+      "date": 1387469499402
+    },
+    {
+      "type": "move",
+      "order": [
+        "d4b3d6c3f1dc17e2",
+        "b6377b6e061cd062",
+        "ced94c8e8d8e1237",
+        "bba0db001e6e092d",
+        "5a1277caf94b276f",
+        "48bf138eddc98cf3",
+        "981d189f1d2891f0",
+        "1f0814ad297516a5",
+        "c70cbca1ba00e72d"
+      ],
+      "id": "c70cbca1ba00e72d",
+      "date": 1387469754163
+    },
+    {
+      "type": "edit",
+      "id": "c70cbca1ba00e72d",
+      "item": {
+        "type": "paragraph",
+        "id": "c70cbca1ba00e72d",
+        "text": "Read [[How to Wiki]] to understand it all."
+      },
+      "date": 1387469784001
+    },
+    {
+      "type": "edit",
+      "id": "b6377b6e061cd062",
+      "item": {
+        "type": "html",
+        "id": "b6377b6e061cd062",
+        "text": "<h3> Can Others Read?"
+      },
+      "date": 1420950436783
+    },
+    {
+      "type": "edit",
+      "id": "5a1277caf94b276f",
+      "item": {
+        "type": "html",
+        "id": "5a1277caf94b276f",
+        "text": "<h3> Can Others Write?"
+      },
+      "date": 1420950438537
+    }
+  ]
+}

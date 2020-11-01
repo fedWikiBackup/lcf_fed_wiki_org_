@@ -1,0 +1,684 @@
+{
+  "title": "Should Have",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "749aade56ae35db2",
+      "text": "We accept that our understanding of our work evolves. I asked, how (when) do you know what you should have done? Of course I was thinking about refactoring of code that was once right but not now."
+    },
+    {
+      "type": "paragraph",
+      "id": "02ac7ff052ac1849",
+      "text": "From a conversation in the [[Lean Coffee Federation]]."
+    },
+    {
+      "type": "html",
+      "id": "0cbee7b425f1ba2a",
+      "text": "<h3> Question"
+    },
+    {
+      "type": "paragraph",
+      "id": "11b3567c84e662ed",
+      "text": "I'm wondering, how can we sense with some confidence when the world has shifted enough that it is worth thinking through past decisions."
+    },
+    {
+      "type": "paragraph",
+      "id": "52a24eddc6762036",
+      "text": "My question was misunderstood. Dose the word \"should\" imply that I made a mistake and want to correct it? No, this was not my intention."
+    },
+    {
+      "type": "paragraph",
+      "id": "05cbf767a15b2ac7",
+      "text": "This is the same way that my notion of technical debt is misunderstood. I argue that assuming debt is a sound business strategy and should be planned for else paying back principle turns onerous. [https://www.youtube.com/watch?v=pqeJFYwnkjE youtube] (5 min)"
+    },
+    {
+      "type": "html",
+      "id": "8a5e6aa8f9290d3d",
+      "text": "<i>Oh, now we know what we should have done. "
+    },
+    {
+      "type": "paragraph",
+      "id": "c7632d52bea0883e",
+      "text": "This happens on all programming projects of any substance. This happens whether one prepares for change or not. But does this happen at convenient times or with sufficient clarity?"
+    },
+    {
+      "type": "html",
+      "id": "f765163cc2e37a2a",
+      "text": "<h3> Sensitivity"
+    },
+    {
+      "type": "paragraph",
+      "id": "fcb3701ecde31244",
+      "text": "My question was really about what we can do to become sensitive to refactoring opportunities."
+    },
+    {
+      "type": "paragraph",
+      "id": "907bb81df934827c",
+      "text": "We could hold retrospectives at regular intervals. These tend to be about team and process. They could also include a frank reassessment of how a codebase reflects a team's current understanding of its purpose."
+    },
+    {
+      "type": "paragraph",
+      "id": "eb3b80790daee274",
+      "text": "We could measure the downslope of velocity that one would expect from mounting technical debt. This assumes consistency of story units. This transfers one measurement problem to another."
+    },
+    {
+      "type": "paragraph",
+      "id": "09122e68c8365271",
+      "text": "We could survey team members and ask them if they feel productive. I liked to ask, what percentage of your week are you grappling with issues that you can explain to the customer and know that they would be glad that you are doing this work on their behalf?"
+    },
+    {
+      "type": "paragraph",
+      "id": "b650062738c94279",
+      "text": "We could maintain a database of alternative implementations and reevaluate the applicability of each at regular intervals. Presumably some would rise to a cost/benefit threshold."
+    },
+    {
+      "type": "paragraph",
+      "id": "2d6e247ad9ecca7b",
+      "text": "We could speculatively implement alternative architectures and expect them to coexist in the codebase. (Polymorphism makes this possible.) The small perturbations sometimes called \"bit rot\" would favor the better and it would bloom."
+    },
+    {
+      "type": "paragraph",
+      "id": "d868eb4a14a2f008",
+      "text": "We could expect most of our engineers to maintain a broad knowledge of our modules and their interactions and look to them to feel the pain when they are no longer working well."
+    },
+    {
+      "type": "paragraph",
+      "id": "fa29ebd6ad91ee1a",
+      "text": "I have seen all of these methods work. However, I have not seen agreed upon policy regarding which and how much of each an enterprise intends to use to protect its software investments."
+    },
+    {
+      "type": "paragraph",
+      "id": "4abfb8c700008462",
+      "text": "I coined the debt metaphor to emphasize the need for management policy and to explain the nature of the responsibility I had been excepting for managing debt in our own codebase. [http://c2.com/doc/oopsla92.html paper]"
+    },
+    {
+      "type": "paragraph",
+      "id": "de65f07471c78cc4",
+      "text": "I haven't seen much improvement on the casual methods I have used. There is, however, an emerging industry that is focusing on poorly written or woefully obsolete codes as if this is the center of the problem."
+    },
+    {
+      "type": "paragraph",
+      "id": "1bfded0788a76dfd",
+      "text": "I don't believe this approach is going to lead to a better place because there is no sensitivity to opportunity in any work going forward."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Should Have",
+        "story": []
+      },
+      "date": 1400769462874
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "749aade56ae35db2"
+      },
+      "id": "749aade56ae35db2",
+      "type": "add",
+      "date": 1400769472478
+    },
+    {
+      "type": "edit",
+      "id": "749aade56ae35db2",
+      "item": {
+        "type": "paragraph",
+        "id": "749aade56ae35db2",
+        "text": "We accept that our understanding of our work evolves. I asked, how (when) do you know what you should have done?"
+      },
+      "date": 1400769486204
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "842d6400584dec0d",
+        "text": ""
+      },
+      "id": "842d6400584dec0d",
+      "type": "add",
+      "after": "749aade56ae35db2",
+      "date": 1400769486709
+    },
+    {
+      "type": "remove",
+      "id": "842d6400584dec0d",
+      "date": 1400769490643
+    },
+    {
+      "type": "edit",
+      "id": "749aade56ae35db2",
+      "item": {
+        "type": "paragraph",
+        "id": "749aade56ae35db2",
+        "text": "We accept that our understanding of our work evolves. I asked, how (when) do you know what you should have done? Of course I was thinking about refactoring of code that was once right but not now."
+      },
+      "date": 1400769533098
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "db00377bb22247de",
+        "text": ""
+      },
+      "id": "db00377bb22247de",
+      "type": "add",
+      "after": "749aade56ae35db2",
+      "date": 1400769533604
+    },
+    {
+      "type": "remove",
+      "id": "db00377bb22247de",
+      "date": 1400769558717
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "02ac7ff052ac1849"
+      },
+      "id": "02ac7ff052ac1849",
+      "type": "add",
+      "after": "749aade56ae35db2",
+      "date": 1400769585027
+    },
+    {
+      "type": "edit",
+      "id": "02ac7ff052ac1849",
+      "item": {
+        "type": "paragraph",
+        "id": "02ac7ff052ac1849",
+        "text": "From a conversation in the [[Lean Coffee Federation]]."
+      },
+      "date": 1400769598744
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "11b3567c84e662ed"
+      },
+      "id": "11b3567c84e662ed",
+      "type": "add",
+      "after": "02ac7ff052ac1849",
+      "date": 1400769603546
+    },
+    {
+      "type": "edit",
+      "id": "11b3567c84e662ed",
+      "item": {
+        "type": "paragraph",
+        "id": "11b3567c84e662ed",
+        "text": "I'm wondering, how can we sense with some confidence when the world has shifted enough that it is worth thinking through past decisions."
+      },
+      "date": 1400769701851
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "52a24eddc6762036",
+        "text": ""
+      },
+      "id": "52a24eddc6762036",
+      "type": "add",
+      "after": "11b3567c84e662ed",
+      "date": 1400769702355
+    },
+    {
+      "type": "edit",
+      "id": "52a24eddc6762036",
+      "item": {
+        "type": "paragraph",
+        "id": "52a24eddc6762036",
+        "text": "My question was misunderstood. The word \"should\" seems to imply that I made a mistake and want to correct it. Not so."
+      },
+      "date": 1400769763220
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c51602d8cb78b43b",
+        "text": ""
+      },
+      "id": "c51602d8cb78b43b",
+      "type": "add",
+      "after": "52a24eddc6762036",
+      "date": 1400769763725
+    },
+    {
+      "type": "remove",
+      "id": "c51602d8cb78b43b",
+      "date": 1400769764652
+    },
+    {
+      "type": "edit",
+      "id": "52a24eddc6762036",
+      "item": {
+        "type": "paragraph",
+        "id": "52a24eddc6762036",
+        "text": "My question was misunderstood. The word \"should\" seems to imply that I made a mistake and want to correct it."
+      },
+      "date": 1400769767482
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "05cbf767a15b2ac7",
+        "text": ""
+      },
+      "id": "05cbf767a15b2ac7",
+      "type": "add",
+      "after": "52a24eddc6762036",
+      "date": 1400769767986
+    },
+    {
+      "type": "edit",
+      "id": "05cbf767a15b2ac7",
+      "item": {
+        "type": "paragraph",
+        "id": "05cbf767a15b2ac7",
+        "text": "This is the same way that my notion of technical debt is misunderstood. I argue that assuming debt is a sound business strategy and should be planned for else paying back principle turns onerous. "
+      },
+      "date": 1400769865143
+    },
+    {
+      "type": "edit",
+      "id": "05cbf767a15b2ac7",
+      "item": {
+        "type": "paragraph",
+        "id": "05cbf767a15b2ac7",
+        "text": "This is the same way that my notion of technical debt is misunderstood. I argue that assuming debt is a sound business strategy and should be planned for else paying back principle turns onerous. [https://www.youtube.com/watch?v=pqeJFYwnkjE youtube] (5 min)"
+      },
+      "date": 1400769911001
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8a5e6aa8f9290d3d"
+      },
+      "id": "8a5e6aa8f9290d3d",
+      "type": "add",
+      "after": "05cbf767a15b2ac7",
+      "date": 1400769934258
+    },
+    {
+      "type": "edit",
+      "id": "52a24eddc6762036",
+      "item": {
+        "type": "paragraph",
+        "id": "52a24eddc6762036",
+        "text": "My question was misunderstood. Dose the word \"should\" imply that I made a mistake and want to correct it. Not my intention."
+      },
+      "date": 1400770008077
+    },
+    {
+      "type": "edit",
+      "id": "52a24eddc6762036",
+      "item": {
+        "type": "paragraph",
+        "id": "52a24eddc6762036",
+        "text": "My question was misunderstood. Dose the word \"should\" imply that I made a mistake and want to correct it? No, this was not my intention."
+      },
+      "date": 1400770036540
+    },
+    {
+      "type": "edit",
+      "id": "8a5e6aa8f9290d3d",
+      "item": {
+        "type": "paragraph",
+        "id": "8a5e6aa8f9290d3d",
+        "text": "<i>Oh, now we know what we should have done. "
+      },
+      "date": 1400770191017
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "c7632d52bea0883e",
+        "text": ""
+      },
+      "id": "c7632d52bea0883e",
+      "type": "add",
+      "after": "8a5e6aa8f9290d3d",
+      "date": 1400770195264
+    },
+    {
+      "type": "edit",
+      "id": "c7632d52bea0883e",
+      "item": {
+        "type": "paragraph",
+        "id": "c7632d52bea0883e",
+        "text": "This happens on all programming projects of any substance. This happens whether one prepares for change or not. But does this happen at convenient times or with sufficient clarity?"
+      },
+      "date": 1400770326596
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fcb3701ecde31244",
+        "text": ""
+      },
+      "id": "fcb3701ecde31244",
+      "type": "add",
+      "after": "c7632d52bea0883e",
+      "date": 1400770327102
+    },
+    {
+      "type": "edit",
+      "id": "fcb3701ecde31244",
+      "item": {
+        "type": "paragraph",
+        "id": "fcb3701ecde31244",
+        "text": "My question was really about what we can do to become sensitive to refactoring opportunities."
+      },
+      "date": 1400770381707
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "907bb81df934827c",
+        "text": ""
+      },
+      "id": "907bb81df934827c",
+      "type": "add",
+      "after": "fcb3701ecde31244",
+      "date": 1400770382213
+    },
+    {
+      "type": "edit",
+      "id": "907bb81df934827c",
+      "item": {
+        "type": "paragraph",
+        "id": "907bb81df934827c",
+        "text": "We could hold retrospectives at regular intervals. These tend to be about team and process. They could also include a frank reassessment of how a codebase reflects a team's current understanding of its purpose."
+      },
+      "date": 1400770555192
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "eb3b80790daee274",
+        "text": ""
+      },
+      "id": "eb3b80790daee274",
+      "type": "add",
+      "after": "907bb81df934827c",
+      "date": 1400770555702
+    },
+    {
+      "type": "edit",
+      "id": "eb3b80790daee274",
+      "item": {
+        "type": "paragraph",
+        "id": "eb3b80790daee274",
+        "text": "We could measure the downslope of velocity that one would expect from mounting technical debt. This assumes consistency of story units. This transfers one measurement problem to another."
+      },
+      "date": 1400770712938
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "09122e68c8365271",
+        "text": ""
+      },
+      "id": "09122e68c8365271",
+      "type": "add",
+      "after": "eb3b80790daee274",
+      "date": 1400770718874
+    },
+    {
+      "type": "edit",
+      "id": "09122e68c8365271",
+      "item": {
+        "type": "paragraph",
+        "id": "09122e68c8365271",
+        "text": "We could survey team members and ask them if they feel productive. I liked to ask, what percentage of your week are you grappling with issues that you can explain to the customer and know that they would be glad that you are doing this work on their behalf?"
+      },
+      "date": 1400770825463
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b650062738c94279",
+        "text": ""
+      },
+      "id": "b650062738c94279",
+      "type": "add",
+      "after": "09122e68c8365271",
+      "date": 1400770860375
+    },
+    {
+      "type": "edit",
+      "id": "b650062738c94279",
+      "item": {
+        "type": "paragraph",
+        "id": "b650062738c94279",
+        "text": "We could maintain a database of alternative implementations and reevaluate the applicability of each at regular intervals. Presumably some would rise to a cost/benefit threshold."
+      },
+      "date": 1400770992539
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2d6e247ad9ecca7b",
+        "text": ""
+      },
+      "id": "2d6e247ad9ecca7b",
+      "type": "add",
+      "after": "b650062738c94279",
+      "date": 1400770993044
+    },
+    {
+      "type": "edit",
+      "id": "2d6e247ad9ecca7b",
+      "item": {
+        "type": "paragraph",
+        "id": "2d6e247ad9ecca7b",
+        "text": "We could speculatively implement alternative architectures and expect them to coexist in the codebase. (Polymorphism makes this possible.) The small perturbations sometimes called \"bit rot\" would favor the better and it would bloom."
+      },
+      "date": 1400771188408
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "f765163cc2e37a2a",
+        "text": ""
+      },
+      "id": "f765163cc2e37a2a",
+      "type": "add",
+      "after": "c7632d52bea0883e",
+      "date": 1400771228782
+    },
+    {
+      "type": "edit",
+      "id": "f765163cc2e37a2a",
+      "item": {
+        "type": "paragraph",
+        "id": "f765163cc2e37a2a",
+        "text": "<h3> Sensitivity"
+      },
+      "date": 1400771236860
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "0cbee7b425f1ba2a",
+        "text": ""
+      },
+      "id": "0cbee7b425f1ba2a",
+      "type": "add",
+      "after": "02ac7ff052ac1849",
+      "date": 1400771251340
+    },
+    {
+      "type": "edit",
+      "id": "0cbee7b425f1ba2a",
+      "item": {
+        "type": "paragraph",
+        "id": "0cbee7b425f1ba2a",
+        "text": "<h3> Question"
+      },
+      "date": 1400771258236
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d868eb4a14a2f008",
+        "text": ""
+      },
+      "id": "d868eb4a14a2f008",
+      "type": "add",
+      "after": "2d6e247ad9ecca7b",
+      "date": 1400771287141
+    },
+    {
+      "type": "edit",
+      "id": "d868eb4a14a2f008",
+      "item": {
+        "type": "paragraph",
+        "id": "d868eb4a14a2f008",
+        "text": "We could expect most of our engineers to maintain a broad knowledge of our modules and their interactions and look to them to feel the pain when they are no longer working well."
+      },
+      "date": 1400771354056
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "fa29ebd6ad91ee1a",
+        "text": ""
+      },
+      "id": "fa29ebd6ad91ee1a",
+      "type": "add",
+      "after": "d868eb4a14a2f008",
+      "date": 1400771354562
+    },
+    {
+      "type": "edit",
+      "id": "fa29ebd6ad91ee1a",
+      "item": {
+        "type": "paragraph",
+        "id": "fa29ebd6ad91ee1a",
+        "text": "I have seen all of these methods work. However, I have not seen agreed upon policy regarding which and how much of each an enterprise intends to use to protect its software investments."
+      },
+      "date": 1400771508774
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4abfb8c700008462",
+        "text": ""
+      },
+      "id": "4abfb8c700008462",
+      "type": "add",
+      "after": "fa29ebd6ad91ee1a",
+      "date": 1400771509280
+    },
+    {
+      "type": "edit",
+      "id": "4abfb8c700008462",
+      "item": {
+        "type": "paragraph",
+        "id": "4abfb8c700008462",
+        "text": "I coined the debt metaphor to emphasize the need for management policy and to explain the nature of the responsibility I had been excepting for managing debt in our own codebase."
+      },
+      "date": 1400771765319
+    },
+    {
+      "type": "edit",
+      "id": "4abfb8c700008462",
+      "item": {
+        "type": "paragraph",
+        "id": "4abfb8c700008462",
+        "text": "I coined the debt metaphor to emphasize the need for management policy and to explain the nature of the responsibility I had been excepting for managing debt in our own codebase. [http://c2.com/doc/oopsla92.html paper]"
+      },
+      "date": 1400771818745
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "de65f07471c78cc4",
+        "text": ""
+      },
+      "id": "de65f07471c78cc4",
+      "type": "add",
+      "after": "4abfb8c700008462",
+      "date": 1400771826016
+    },
+    {
+      "type": "edit",
+      "id": "de65f07471c78cc4",
+      "item": {
+        "type": "paragraph",
+        "id": "de65f07471c78cc4",
+        "text": "I haven't seen much improvement on the casual methods I have used. There is, however, an emerging industry that is focusing on poorly written or woefully obsolete codes as if this is the center of the problem."
+      },
+      "date": 1400771924945
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1bfded0788a76dfd",
+        "text": ""
+      },
+      "id": "1bfded0788a76dfd",
+      "type": "add",
+      "after": "de65f07471c78cc4",
+      "date": 1400771925452
+    },
+    {
+      "type": "edit",
+      "id": "1bfded0788a76dfd",
+      "item": {
+        "type": "paragraph",
+        "id": "1bfded0788a76dfd",
+        "text": "I don't believe this approach is going to lead to a better place because there is no sensitivity to opportunity in any work going forward."
+      },
+      "date": 1400771999808
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "68f0284133ff132c",
+        "text": ""
+      },
+      "id": "68f0284133ff132c",
+      "type": "add",
+      "after": "1bfded0788a76dfd",
+      "date": 1400772000313
+    },
+    {
+      "type": "remove",
+      "id": "68f0284133ff132c",
+      "date": 1400772015378
+    },
+    {
+      "type": "edit",
+      "id": "0cbee7b425f1ba2a",
+      "item": {
+        "type": "html",
+        "id": "0cbee7b425f1ba2a",
+        "text": "<h3> Question"
+      },
+      "date": 1420950444043
+    },
+    {
+      "type": "edit",
+      "id": "8a5e6aa8f9290d3d",
+      "item": {
+        "type": "html",
+        "id": "8a5e6aa8f9290d3d",
+        "text": "<i>Oh, now we know what we should have done. "
+      },
+      "date": 1420950446034
+    },
+    {
+      "type": "edit",
+      "id": "f765163cc2e37a2a",
+      "item": {
+        "type": "html",
+        "id": "f765163cc2e37a2a",
+        "text": "<h3> Sensitivity"
+      },
+      "date": 1420950448590
+    }
+  ]
+}

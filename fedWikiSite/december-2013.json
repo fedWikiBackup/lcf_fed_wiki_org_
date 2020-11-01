@@ -1,0 +1,338 @@
+{
+  "title": "December 2013",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "2eac828a16fc3480",
+      "text": "Topics from [[Portland, Oregon]], hosted by NewRelic."
+    },
+    {
+      "type": "html",
+      "id": "051e44c302cfa136",
+      "text": "<h3> December 18, 2013"
+    },
+    {
+      "type": "paragraph",
+      "id": "4c3ee3655221062a",
+      "text": "[[Using Linkedin Professionally]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "68d1dbd27b46ba73",
+      "text": "[[Emergent Organizations]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "59467eaf19ac3a9f",
+      "text": "[[Social Media Silos]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "a4f045fa3c884015",
+      "text": "[[What Builds Teamwork]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "65f054bb83794a92",
+      "text": "[[Pens: Our Tools for Writing]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "274dcd0ec026dba7",
+      "text": "[[Lean Coffee Federation]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "ca6de0372c530f00",
+      "text": "[[Efficiency of Big Cities]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "b64eb62b7121d4e7",
+      "text": "[[Dog House vs. Sky Scraper]]"
+    },
+    {
+      "type": "paragraph",
+      "id": "cbe2096514ec4e62",
+      "text": "Retrospective: We had 12 people which didn't work. We didn't find depth in anything we discussed. One problem was that the group grew after the decision was made."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "December 2013",
+        "story": []
+      },
+      "date": 1387380758075
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "2eac828a16fc3480"
+      },
+      "id": "2eac828a16fc3480",
+      "type": "add",
+      "date": 1387380759976
+    },
+    {
+      "type": "edit",
+      "id": "2eac828a16fc3480",
+      "item": {
+        "type": "paragraph",
+        "id": "2eac828a16fc3480",
+        "text": "Topics from Portland, Oregon."
+      },
+      "date": 1387380904699
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4c3ee3655221062a"
+      },
+      "id": "4c3ee3655221062a",
+      "type": "add",
+      "after": "2eac828a16fc3480",
+      "date": 1387382231557
+    },
+    {
+      "type": "edit",
+      "id": "4c3ee3655221062a",
+      "item": {
+        "type": "paragraph",
+        "id": "4c3ee3655221062a",
+        "text": "[[Using Linkedin Professionally]]"
+      },
+      "date": 1387382286061
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "68d1dbd27b46ba73"
+      },
+      "id": "68d1dbd27b46ba73",
+      "type": "add",
+      "after": "4c3ee3655221062a",
+      "date": 1387382608883
+    },
+    {
+      "type": "edit",
+      "id": "68d1dbd27b46ba73",
+      "item": {
+        "type": "paragraph",
+        "id": "68d1dbd27b46ba73",
+        "text": "[[Emergent Organizations]]"
+      },
+      "date": 1387382618958
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "59467eaf19ac3a9f"
+      },
+      "id": "59467eaf19ac3a9f",
+      "type": "add",
+      "after": "68d1dbd27b46ba73",
+      "date": 1387382937677
+    },
+    {
+      "type": "edit",
+      "id": "59467eaf19ac3a9f",
+      "item": {
+        "type": "paragraph",
+        "id": "59467eaf19ac3a9f",
+        "text": "[[Social Media Silos]]"
+      },
+      "date": 1387382949393
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "a4f045fa3c884015"
+      },
+      "id": "a4f045fa3c884015",
+      "type": "add",
+      "after": "59467eaf19ac3a9f",
+      "date": 1387383506988
+    },
+    {
+      "type": "edit",
+      "id": "a4f045fa3c884015",
+      "item": {
+        "type": "paragraph",
+        "id": "a4f045fa3c884015",
+        "text": "[[What Builds Teamwork]]"
+      },
+      "date": 1387383518156
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "051e44c302cfa136",
+        "text": ""
+      },
+      "id": "051e44c302cfa136",
+      "type": "add",
+      "after": "2eac828a16fc3480",
+      "date": 1387383611480
+    },
+    {
+      "type": "edit",
+      "id": "051e44c302cfa136",
+      "item": {
+        "type": "paragraph",
+        "id": "051e44c302cfa136",
+        "text": "<h3> December 18, 2013"
+      },
+      "date": 1387383622866
+    },
+    {
+      "type": "edit",
+      "id": "2eac828a16fc3480",
+      "item": {
+        "type": "paragraph",
+        "id": "2eac828a16fc3480",
+        "text": "Topics from Portland, Oregon, hosted by NewRelic."
+      },
+      "date": 1387383646793
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "65f054bb83794a92",
+        "text": ""
+      },
+      "id": "65f054bb83794a92",
+      "type": "add",
+      "after": "a4f045fa3c884015",
+      "date": 1387383731856
+    },
+    {
+      "type": "edit",
+      "id": "65f054bb83794a92",
+      "item": {
+        "type": "paragraph",
+        "id": "65f054bb83794a92",
+        "text": "[[Pens: Our Tools for Writing]]"
+      },
+      "date": 1387383828660
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "274dcd0ec026dba7"
+      },
+      "id": "274dcd0ec026dba7",
+      "type": "add",
+      "after": "65f054bb83794a92",
+      "date": 1387384225024
+    },
+    {
+      "type": "edit",
+      "id": "274dcd0ec026dba7",
+      "item": {
+        "type": "paragraph",
+        "id": "274dcd0ec026dba7",
+        "text": "[[Lean Coffee Federation]]"
+      },
+      "date": 1387384265430
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ca6de0372c530f00"
+      },
+      "id": "ca6de0372c530f00",
+      "type": "add",
+      "after": "274dcd0ec026dba7",
+      "date": 1387384695236
+    },
+    {
+      "type": "edit",
+      "id": "ca6de0372c530f00",
+      "item": {
+        "type": "paragraph",
+        "id": "ca6de0372c530f00",
+        "text": "[[Efficiency of Big Cities]]"
+      },
+      "date": 1387384718588
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b64eb62b7121d4e7",
+        "text": ""
+      },
+      "id": "b64eb62b7121d4e7",
+      "type": "add",
+      "after": "ca6de0372c530f00",
+      "date": 1387385161648
+    },
+    {
+      "type": "edit",
+      "id": "b64eb62b7121d4e7",
+      "item": {
+        "type": "paragraph",
+        "id": "b64eb62b7121d4e7",
+        "text": "[[Dog House vs. Sky Scraper]]"
+      },
+      "date": 1387385187317
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "cbe2096514ec4e62"
+      },
+      "id": "cbe2096514ec4e62",
+      "type": "add",
+      "after": "b64eb62b7121d4e7",
+      "date": 1387385639623
+    },
+    {
+      "type": "edit",
+      "id": "cbe2096514ec4e62",
+      "item": {
+        "type": "paragraph",
+        "id": "cbe2096514ec4e62",
+        "text": "Retrospective: We had 12 people which didn't work. We didn't find depth in anything we discussed. One problem was that the group grew after the decision was made."
+      },
+      "date": 1387385731012
+    },
+    {
+      "type": "edit",
+      "id": "2eac828a16fc3480",
+      "item": {
+        "type": "paragraph",
+        "id": "2eac828a16fc3480",
+        "text": "Topics from [[Portland, Oregon]], hosted by NewRelic."
+      },
+      "date": 1387386428197
+    },
+    {
+      "type": "add",
+      "item": {
+        "type": "paragraph",
+        "id": "52c28233558a099d",
+        "text": "How about a stream of tweets for user documentation? Every function would need a hash tag but that doesn't sound too hard. See [[Tweet Docs]]"
+      },
+      "after": "051e44c302cfa136",
+      "id": "52c28233558a099d",
+      "date": 1399391505260
+    },
+    {
+      "type": "remove",
+      "id": "52c28233558a099d",
+      "date": 1399478527759
+    },
+    {
+      "type": "edit",
+      "id": "051e44c302cfa136",
+      "item": {
+        "type": "html",
+        "id": "051e44c302cfa136",
+        "text": "<h3> December 18, 2013"
+      },
+      "date": 1420950431781
+    }
+  ]
+}

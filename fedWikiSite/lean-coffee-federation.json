@@ -1,0 +1,378 @@
+{
+  "title": "Lean Coffee Federation",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "bf98c13dfbd9146f",
+      "text": "We promote ongoing personal reflection on topics discussed at [[Lean Coffee]] meetups."
+    },
+    {
+      "type": "html",
+      "id": "29fb876197aced48",
+      "text": "<h3> Community"
+    },
+    {
+      "type": "paragraph",
+      "id": "1eb0dcb001f42b4b",
+      "text": "Meetups are held around the world. This online presence for meetup participants will spread to the degree that it adds value to in person conversations."
+    },
+    {
+      "type": "paragraph",
+      "id": "21c9c2cee0c70ea0",
+      "text": "[[Portland Oregon]]"
+    },
+    {
+      "type": "html",
+      "id": "abffe4f2c67179bf",
+      "text": "<h3> Activity"
+    },
+    {
+      "type": "paragraph",
+      "id": "74a35cb68d1bc6db",
+      "text": "We organize content around topics that have been voted into conversations at a point in time. We use one month resolution so as to capture a small number of these events into a single and broadly meaningful title."
+    },
+    {
+      "type": "paragraph",
+      "id": "ab0c9c2635ac5b64",
+      "text": "[[December 2013]]"
+    },
+    {
+      "type": "html",
+      "id": "d2f4d63ab342bdba",
+      "text": "<h3> Federation"
+    },
+    {
+      "type": "paragraph",
+      "id": "01bc6064774e15f6",
+      "text": "Lean, Agile and Wiki have shared roots that go deep. All have a strong notion of freedom to do what makes sense now. Lean and Agile succeed by staying small. Wiki yes and no. The largest wikis drift into bureaucracy. "
+    },
+    {
+      "type": "paragraph",
+      "id": "6f90ab1d384989d6",
+      "text": "[[Federated Wiki]] distributes the keeping and curating responsibilities over the participants. Exceptional points of view are allowed if they serve the individuals that hold them. Outlandish points of view will simply be ignored."
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Lean Coffee Federation",
+        "story": []
+      },
+      "date": 1387380601510
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "bf98c13dfbd9146f"
+      },
+      "id": "bf98c13dfbd9146f",
+      "type": "add",
+      "date": 1387380603377
+    },
+    {
+      "type": "edit",
+      "id": "bf98c13dfbd9146f",
+      "item": {
+        "type": "paragraph",
+        "id": "bf98c13dfbd9146f",
+        "text": "We promote ongoing personal reflection on topics discussed at [[Lean Coffee]]."
+      },
+      "date": 1387380648584
+    },
+    {
+      "type": "edit",
+      "id": "bf98c13dfbd9146f",
+      "item": {
+        "type": "paragraph",
+        "id": "bf98c13dfbd9146f",
+        "text": "We promote ongoing personal reflection on topics discussed at [[Lean Coffee]] meetups."
+      },
+      "date": 1387380724039
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "ab0c9c2635ac5b64"
+      },
+      "id": "ab0c9c2635ac5b64",
+      "type": "add",
+      "after": "bf98c13dfbd9146f",
+      "date": 1387380733006
+    },
+    {
+      "type": "edit",
+      "id": "ab0c9c2635ac5b64",
+      "item": {
+        "type": "paragraph",
+        "id": "ab0c9c2635ac5b64",
+        "text": "[[December 2013]]"
+      },
+      "date": 1387380752901
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "5be98eb617a32b5a",
+        "text": ""
+      },
+      "id": "5be98eb617a32b5a",
+      "type": "add",
+      "after": "bf98c13dfbd9146f",
+      "date": 1387421142551
+    },
+    {
+      "type": "remove",
+      "id": "5be98eb617a32b5a",
+      "date": 1387421155726
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "548609924679ca98",
+        "text": ""
+      },
+      "id": "548609924679ca98",
+      "type": "add",
+      "after": "bf98c13dfbd9146f",
+      "date": 1387421196582
+    },
+    {
+      "type": "remove",
+      "id": "548609924679ca98",
+      "date": 1387421207980
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "29fb876197aced48"
+      },
+      "id": "29fb876197aced48",
+      "type": "add",
+      "after": "ab0c9c2635ac5b64",
+      "date": 1387467239657
+    },
+    {
+      "type": "edit",
+      "id": "29fb876197aced48",
+      "item": {
+        "type": "paragraph",
+        "id": "29fb876197aced48",
+        "text": "<h3> Community"
+      },
+      "date": 1387467267307
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "21c9c2cee0c70ea0"
+      },
+      "id": "21c9c2cee0c70ea0",
+      "type": "add",
+      "after": "29fb876197aced48",
+      "date": 1387467271501
+    },
+    {
+      "type": "edit",
+      "id": "21c9c2cee0c70ea0",
+      "item": {
+        "type": "paragraph",
+        "id": "21c9c2cee0c70ea0",
+        "text": "[[Portland Oregon]]"
+      },
+      "date": 1387467285898
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "abffe4f2c67179bf"
+      },
+      "id": "abffe4f2c67179bf",
+      "type": "add",
+      "after": "21c9c2cee0c70ea0",
+      "date": 1387467291265
+    },
+    {
+      "type": "edit",
+      "id": "abffe4f2c67179bf",
+      "item": {
+        "type": "paragraph",
+        "id": "abffe4f2c67179bf",
+        "text": "<h3> Activity"
+      },
+      "date": 1387467301065
+    },
+    {
+      "type": "move",
+      "order": [
+        "bf98c13dfbd9146f",
+        "29fb876197aced48",
+        "21c9c2cee0c70ea0",
+        "abffe4f2c67179bf",
+        "ab0c9c2635ac5b64"
+      ],
+      "id": "ab0c9c2635ac5b64",
+      "date": 1387467305972
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "1eb0dcb001f42b4b",
+        "text": ""
+      },
+      "id": "1eb0dcb001f42b4b",
+      "type": "add",
+      "after": "29fb876197aced48",
+      "date": 1387467311738
+    },
+    {
+      "type": "edit",
+      "id": "1eb0dcb001f42b4b",
+      "item": {
+        "type": "paragraph",
+        "id": "1eb0dcb001f42b4b",
+        "text": "Meetups are held around the world. This online presence for meetup participants will spread to the degree that it adds value to in person conversations."
+      },
+      "date": 1387467455919
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "74a35cb68d1bc6db",
+        "text": ""
+      },
+      "id": "74a35cb68d1bc6db",
+      "type": "add",
+      "after": "abffe4f2c67179bf",
+      "date": 1387467485845
+    },
+    {
+      "type": "edit",
+      "id": "74a35cb68d1bc6db",
+      "item": {
+        "type": "paragraph",
+        "id": "74a35cb68d1bc6db",
+        "text": "We organize content around topics that have been voted into conversations at a point in time. We use one month resolution so as to capture a small number of these events into a single and broadly meaningful title."
+      },
+      "date": 1387467778229
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "d2f4d63ab342bdba"
+      },
+      "id": "d2f4d63ab342bdba",
+      "type": "add",
+      "after": "ab0c9c2635ac5b64",
+      "date": 1387468087298
+    },
+    {
+      "type": "edit",
+      "id": "d2f4d63ab342bdba",
+      "item": {
+        "type": "paragraph",
+        "id": "d2f4d63ab342bdba",
+        "text": "<h3> Federation"
+      },
+      "date": 1387468102873
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "01bc6064774e15f6",
+        "text": ""
+      },
+      "id": "01bc6064774e15f6",
+      "type": "add",
+      "after": "d2f4d63ab342bdba",
+      "date": 1387468103380
+    },
+    {
+      "type": "edit",
+      "id": "01bc6064774e15f6",
+      "item": {
+        "type": "paragraph",
+        "id": "01bc6064774e15f6",
+        "text": "Lean, Agile and Wiki have shared roots that go deep. All have a strong notion of freedom to do what makes sense now. Lean and Agile succeed by staying small. Wiki yes and no. "
+      },
+      "date": 1387468278827
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "6f90ab1d384989d6",
+        "text": ""
+      },
+      "id": "6f90ab1d384989d6",
+      "type": "add",
+      "after": "01bc6064774e15f6",
+      "date": 1387468279332
+    },
+    {
+      "type": "edit",
+      "id": "6f90ab1d384989d6",
+      "item": {
+        "type": "paragraph",
+        "id": "6f90ab1d384989d6",
+        "text": "[[Federated Wiki]] distributes the keeping and curating responsibilities over the participants. Exceptional points of view are allowed if they serve the individuals that hold them. Outlandish points of view will simply be ignored."
+      },
+      "date": 1387468447687
+    },
+    {
+      "type": "edit",
+      "id": "01bc6064774e15f6",
+      "item": {
+        "type": "paragraph",
+        "id": "01bc6064774e15f6",
+        "text": "Lean, Agile and Wiki have shared roots that go deep. All have a strong notion of freedom to do what makes sense now. Lean and Agile succeed by staying small. Wiki yes and no. The largest wikis drift into bureaucracy. "
+      },
+      "date": 1387468506292
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "b89ff3d4feae2ca3",
+        "text": ""
+      },
+      "id": "b89ff3d4feae2ca3",
+      "type": "add",
+      "after": "ab0c9c2635ac5b64",
+      "date": 1400769231486
+    },
+    {
+      "type": "remove",
+      "id": "b89ff3d4feae2ca3",
+      "date": 1400769237339
+    },
+    {
+      "type": "edit",
+      "id": "29fb876197aced48",
+      "item": {
+        "type": "html",
+        "id": "29fb876197aced48",
+        "text": "<h3> Community"
+      },
+      "date": 1420950457309
+    },
+    {
+      "type": "edit",
+      "id": "abffe4f2c67179bf",
+      "item": {
+        "type": "html",
+        "id": "abffe4f2c67179bf",
+        "text": "<h3> Activity"
+      },
+      "date": 1420950458838
+    },
+    {
+      "type": "edit",
+      "id": "d2f4d63ab342bdba",
+      "item": {
+        "type": "html",
+        "id": "d2f4d63ab342bdba",
+        "text": "<h3> Federation"
+      },
+      "date": 1420950460272
+    }
+  ]
+}

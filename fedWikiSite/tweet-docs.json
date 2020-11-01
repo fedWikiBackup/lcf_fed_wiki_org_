@@ -1,0 +1,336 @@
+{
+  "title": "Tweet Docs",
+  "story": [
+    {
+      "type": "paragraph",
+      "id": "61d64ecbaac49cc2",
+      "text": "Every conference promotes a #hashtag for ongoing conversation. Shouldn't your application do the same? Perhaps every page, or every screen, or every function, could have its own."
+    },
+    {
+      "type": "paragraph",
+      "id": "4ea7b2626d0aa22b",
+      "text": "Most folks were confused with what problem I was trying to solve. I guess I was just suggesting a way to tack a social aspect on to any application without the burden of actually writing social software."
+    },
+    {
+      "type": "paragraph",
+      "id": "d0c5caf8a0a73d9c",
+      "text": "There are companies that provide \"help me now\" tags and host support forms for application developers."
+    },
+    {
+      "type": "paragraph",
+      "id": "2da78e511ec44e5d",
+      "text": "One challenge would be finding unique tags. Maybe unique doesn't matter. The most popular app could \"capture\" the traffic should there be a conflict."
+    },
+    {
+      "type": "html",
+      "id": "7e7e488376b79ac7",
+      "text": "<h3> Experiments"
+    },
+    {
+      "type": "paragraph",
+      "id": "8ed498d4bff6d4c4",
+      "text": "Try a search. I've named this page #lcftweetdocs,  a combination of [[Lean Coffee Federation]] and this page name. [https://twitter.com/search?q=%23lcftweetdocs search]"
+    },
+    {
+      "type": "html",
+      "id": "4d3d435da01c05a4",
+      "text": "Here we try Twitter's embedded query looking for tweets. It has a reply box at the bottom. Give it a try.<br><a class=\"twitter-timeline\" href=\"https://twitter.com/search?q=%23lcftweetdocs\" data-widget-id=\"463701163687165952\">Tweets about \"#lcftweetdocs\"</a>\n<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script>\n"
+    }
+  ],
+  "journal": [
+    {
+      "type": "create",
+      "item": {
+        "title": "Tweet Docs",
+        "story": []
+      },
+      "date": 1399389263967
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "61d64ecbaac49cc2"
+      },
+      "id": "61d64ecbaac49cc2",
+      "type": "add",
+      "date": 1399389296785
+    },
+    {
+      "type": "edit",
+      "id": "61d64ecbaac49cc2",
+      "item": {
+        "type": "paragraph",
+        "id": "61d64ecbaac49cc2",
+        "text": "Every conference promotes a #hashtag for ongoing conversation. Shouldn't your application do the same? Perhaps every page, or every screen, or every function, could have its own."
+      },
+      "date": 1399389451368
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "ac4dde9f68a99b07",
+        "text": ""
+      },
+      "id": "ac4dde9f68a99b07",
+      "type": "add",
+      "after": "61d64ecbaac49cc2",
+      "date": 1399389451875
+    },
+    {
+      "type": "remove",
+      "id": "ac4dde9f68a99b07",
+      "date": 1399389459216
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "8ed498d4bff6d4c4"
+      },
+      "id": "8ed498d4bff6d4c4",
+      "type": "add",
+      "after": "61d64ecbaac49cc2",
+      "date": 1399389710634
+    },
+    {
+      "type": "edit",
+      "id": "8ed498d4bff6d4c4",
+      "item": {
+        "type": "paragraph",
+        "id": "8ed498d4bff6d4c4",
+        "text": "Try it now. I've named this page #lcftweetdocs,  a combination of lean coffee federation and this page name. [https://twitter.com/search?q=%23lcftweetdocs twitter]"
+      },
+      "date": 1399389814464
+    },
+    {
+      "type": "edit",
+      "id": "8ed498d4bff6d4c4",
+      "item": {
+        "type": "paragraph",
+        "id": "8ed498d4bff6d4c4",
+        "text": "Try it now. I've named this page #lcftweetdocs,  a combination of [[Lean Coffee Federation]] and this page name. [https://twitter.com/search?q=%23lcftweetdocs twitter]"
+      },
+      "date": 1399389884587
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4d3d435da01c05a4"
+      },
+      "id": "4d3d435da01c05a4",
+      "type": "add",
+      "after": "8ed498d4bff6d4c4",
+      "date": 1399389971738
+    },
+    {
+      "type": "edit",
+      "id": "4d3d435da01c05a4",
+      "item": {
+        "type": "paragraph",
+        "id": "4d3d435da01c05a4",
+        "text": "<a class=\"twitter-timeline\" href=\"https://twitter.com/search?q=%23lcftweetdocs\" data-widget-id=\"463701163687165952\">Tweets about \"#lcftweetdocs\"</a>\n<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script>"
+      },
+      "date": 1399389988652
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "bb0f2451a9a1e007",
+        "text": "\n"
+      },
+      "id": "bb0f2451a9a1e007",
+      "type": "add",
+      "after": "4d3d435da01c05a4",
+      "date": 1399389989160
+    },
+    {
+      "type": "remove",
+      "id": "bb0f2451a9a1e007",
+      "date": 1399390001528
+    },
+    {
+      "item": {
+        "type": "factory",
+        "id": "4aeb292e18c7f50c"
+      },
+      "id": "4aeb292e18c7f50c",
+      "type": "add",
+      "after": "4d3d435da01c05a4",
+      "date": 1399390144789
+    },
+    {
+      "type": "remove",
+      "id": "4aeb292e18c7f50c",
+      "date": 1399390147763
+    },
+    {
+      "type": "edit",
+      "id": "4d3d435da01c05a4",
+      "item": {
+        "type": "paragraph",
+        "id": "4d3d435da01c05a4",
+        "text": "Here we try Twitter's embedded query looking for tweets.<br><a class=\"twitter-timeline\" href=\"https://twitter.com/search?q=%23lcftweetdocs\" data-widget-id=\"463701163687165952\">Tweets about \"#lcftweetdocs\"</a>\n<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script>"
+      },
+      "date": 1399390221468
+    },
+    {
+      "type": "edit",
+      "id": "4d3d435da01c05a4",
+      "item": {
+        "type": "paragraph",
+        "id": "4d3d435da01c05a4",
+        "text": "Here we try Twitter's embedded query looking for tweets.<br><a class=\"twitter-timeline\" href=\"https://twitter.com/search?q=%23lcftweetdocs\" data-widget-id=\"463701163687165952\">Tweets about \"#lcftweetdocs\"</a>\n<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script>\n"
+      },
+      "date": 1399390273303
+    },
+    {
+      "type": "edit",
+      "id": "8ed498d4bff6d4c4",
+      "item": {
+        "type": "paragraph",
+        "id": "8ed498d4bff6d4c4",
+        "text": "Try it now. I've named this page #lcftweetdocs,  a combination of [[Lean Coffee Federation]] and this page name. [https://twitter.com/search?q=%23lcftweetdocs search]"
+      },
+      "date": 1399390317928
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "98515cc25cb5edfc",
+        "text": ""
+      },
+      "id": "98515cc25cb5edfc",
+      "type": "add",
+      "after": "61d64ecbaac49cc2",
+      "date": 1399390359598
+    },
+    {
+      "type": "remove",
+      "id": "98515cc25cb5edfc",
+      "date": 1399390389489
+    },
+    {
+      "type": "edit",
+      "id": "4d3d435da01c05a4",
+      "item": {
+        "type": "paragraph",
+        "id": "4d3d435da01c05a4",
+        "text": "Here we try Twitter's embedded query looking for tweets. It has a reply box at the bottom. Give it a try.<br><a class=\"twitter-timeline\" href=\"https://twitter.com/search?q=%23lcftweetdocs\" data-widget-id=\"463701163687165952\">Tweets about \"#lcftweetdocs\"</a>\n<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script>\n"
+      },
+      "date": 1399390434932
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "4ea7b2626d0aa22b",
+        "text": ""
+      },
+      "id": "4ea7b2626d0aa22b",
+      "type": "add",
+      "after": "61d64ecbaac49cc2",
+      "date": 1399390470998
+    },
+    {
+      "type": "edit",
+      "id": "4ea7b2626d0aa22b",
+      "item": {
+        "type": "paragraph",
+        "id": "4ea7b2626d0aa22b",
+        "text": "Most folks were confused with what problem I was trying to solve. I guess I was just suggesting a way to tack a social aspect on to any application without the burden of actually writing social software."
+      },
+      "date": 1399390606270
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "d0c5caf8a0a73d9c",
+        "text": ""
+      },
+      "id": "d0c5caf8a0a73d9c",
+      "type": "add",
+      "after": "4ea7b2626d0aa22b",
+      "date": 1399390606777
+    },
+    {
+      "type": "edit",
+      "id": "d0c5caf8a0a73d9c",
+      "item": {
+        "type": "paragraph",
+        "id": "d0c5caf8a0a73d9c",
+        "text": "There are companies that provide \"help me now\" tags and host support forms for application developers."
+      },
+      "date": 1399390738010
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "2da78e511ec44e5d",
+        "text": ""
+      },
+      "id": "2da78e511ec44e5d",
+      "type": "add",
+      "after": "d0c5caf8a0a73d9c",
+      "date": 1399390742840
+    },
+    {
+      "type": "edit",
+      "id": "2da78e511ec44e5d",
+      "item": {
+        "type": "paragraph",
+        "id": "2da78e511ec44e5d",
+        "text": "One challenge would be finding unique tags. Maybe unique doesn't matter. The most popular app could \"capture\" the traffic should there be a conflict."
+      },
+      "date": 1399390813208
+    },
+    {
+      "item": {
+        "type": "paragraph",
+        "id": "7e7e488376b79ac7",
+        "text": ""
+      },
+      "id": "7e7e488376b79ac7",
+      "type": "add",
+      "after": "2da78e511ec44e5d",
+      "date": 1399390813715
+    },
+    {
+      "type": "edit",
+      "id": "7e7e488376b79ac7",
+      "item": {
+        "type": "paragraph",
+        "id": "7e7e488376b79ac7",
+        "text": "<h3> Experiments"
+      },
+      "date": 1399390819903
+    },
+    {
+      "type": "edit",
+      "id": "8ed498d4bff6d4c4",
+      "item": {
+        "type": "paragraph",
+        "id": "8ed498d4bff6d4c4",
+        "text": "Try a search. I've named this page #lcftweetdocs,  a combination of [[Lean Coffee Federation]] and this page name. [https://twitter.com/search?q=%23lcftweetdocs search]"
+      },
+      "date": 1399390853071
+    },
+    {
+      "type": "edit",
+      "id": "7e7e488376b79ac7",
+      "item": {
+        "type": "html",
+        "id": "7e7e488376b79ac7",
+        "text": "<h3> Experiments"
+      },
+      "date": 1420950492236
+    },
+    {
+      "type": "edit",
+      "id": "4d3d435da01c05a4",
+      "item": {
+        "type": "html",
+        "id": "4d3d435da01c05a4",
+        "text": "Here we try Twitter's embedded query looking for tweets. It has a reply box at the bottom. Give it a try.<br><a class=\"twitter-timeline\" href=\"https://twitter.com/search?q=%23lcftweetdocs\" data-widget-id=\"463701163687165952\">Tweets about \"#lcftweetdocs\"</a>\n<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+\"://platform.twitter.com/widgets.js\";fjs.parentNode.insertBefore(js,fjs);}}(document,\"script\",\"twitter-wjs\");</script>\n"
+      },
+      "date": 1420950500832
+    }
+  ]
+}
